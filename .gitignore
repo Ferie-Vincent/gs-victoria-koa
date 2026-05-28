@@ -1,4 +1,8 @@
 *.log
+CLAUDE.md
+deploy.sh
+/.playwright-mcp
+/public/deploy.php
 .DS_Store
 .env
 .env.backup
