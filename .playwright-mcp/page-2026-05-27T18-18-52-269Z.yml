@@ -1,0 +1,233 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e9]:
+        - link [ref=e11] [cursor=pointer]:
+          - /url: https://gs-victoria-koa.kinstoreci.com/
+        - link [ref=e12] [cursor=pointer]:
+          - /url: https://gs-victoria-koa.kinstoreci.com/
+      - generic [ref=e16]:
+        - navigation [ref=e17]:
+          - list [ref=e18]:
+            - listitem [ref=e19]:
+              - link "Accueil" [ref=e20] [cursor=pointer]:
+                - /url: https://gs-victoria-koa.kinstoreci.com/
+            - listitem [ref=e21]:
+              - link "Vie scolaire" [ref=e22] [cursor=pointer]:
+                - /url: "#"
+                - text: Vie scolaire
+                - generic [ref=e23]: 
+            - listitem [ref=e24]:
+              - link "Inscription" [ref=e25] [cursor=pointer]:
+                - /url: https://gs-victoria-koa.kinstoreci.com/inscription/
+            - listitem [ref=e26]:
+              - link "Galleries" [ref=e27] [cursor=pointer]:
+                - /url: https://gs-victoria-koa.kinstoreci.com/galleries/
+            - listitem [ref=e28]:
+              - link "Actualités" [ref=e29] [cursor=pointer]:
+                - /url: https://gs-victoria-koa.kinstoreci.com/actualites/
+            - listitem [ref=e30]:
+              - link "A propos" [ref=e31] [cursor=pointer]:
+                - /url: https://gs-victoria-koa.kinstoreci.com/a-propos/
+        - text: 
+      - link "Contact " [ref=e37] [cursor=pointer]:
+        - /url: https://gs-victoria-koa.kinstoreci.com/contact/
+        - generic [ref=e38]:
+          - generic [ref=e39]: Contact
+          - generic [ref=e41]: 
+    - text:  
+  - generic [ref=e42]:
+    - generic [ref=e43]:
+      - generic [ref=e47]:
+        - heading "Bienvenue à Victoria-Koa |" [level=3] [ref=e50]:
+          - generic [ref=e51]: Bienvenue à
+          - generic [ref=e52]:
+            - generic [ref=e54]: Victoria-Koa
+            - generic [ref=e55]: "|"
+        - generic [ref=e57]:
+          - paragraph [ref=e58]: Nous avons un programme unique qui aide chaque enfant à s’adapter rapidement et à se sentir chez lui.
+          - paragraph [ref=e59]: Nous aidons également chaque enfant à trouver sa propre voie
+        - link "En savoir plus " [ref=e63] [cursor=pointer]:
+          - /url: "#link"
+          - generic [ref=e64]:
+            - generic [ref=e65]: En savoir plus
+            - generic [ref=e67]: 
+      - generic [ref=e70]:
+        - img [ref=e72]
+        - img [ref=e74]
+    - heading "Mot de Bienvenue sur le site" [level=2] [ref=e81]
+    - generic [ref=e89]:
+      - paragraph [ref=e92]: Bienvenue dans notre école victoria-koa ou l’esprit d’équipe et l’esprit famille est au cœur de tout ce que nous faisons.
+      - generic [ref=e96]:
+        - paragraph [ref=e97]: Ici les enfants grandissent ensemble, apprennent des uns des autres et tissent des liens forts qui durent toute une vie.
+        - paragraph [ref=e98]: Nous sommes fiers de notre équipe enseignante, passionnée, dévouée et de nos élevés motivés qui travaillent ensemble pour attendre l’excellence.
+        - paragraph [ref=e99]: Notre école est un endroit où nous nous efforçons de créer un environnement d’apprentissage stimulant et accueillant, ou chaque élève unique et valorisé peut grandir et s’épanouir.
+        - paragraph [ref=e100]: Nous sommes à votre écoute et sommes impatient de partager cette aventure éducative avec vous !
+        - paragraph [ref=e101]: Bonne visite sur ce site web conçu pour vous donner un aperçu de notre vie scolaire. Vous y trouverez nos convictions éducatives ainsi que nos activités et événements.
+    - generic [ref=e113]:
+      - heading "Nos valeurs" [level=2] [ref=e116]
+      - list [ref=e120]:
+        - listitem [ref=e121]:
+          - generic [ref=e125]: 
+          - generic [ref=e126]:
+            - heading "Le dynamisme" [level=2] [ref=e127]
+            - paragraph [ref=e128]: un mot avec beaucoup de sens, le dynamisme permet aux élèves de surmonter toute épreuve, d’aller au-delà de leur performance et de choisir leur avenir.
+        - listitem [ref=e129]:
+          - generic [ref=e133]: 
+          - generic [ref=e134]:
+            - heading "La persévérance" [level=2] [ref=e135]
+            - paragraph [ref=e136]: une qualité essentielle qui consiste à persister dans ses efforts et à braver tout obstacle pour atteindre ses objectifs.
+        - listitem [ref=e137]:
+          - generic [ref=e140]: 
+          - generic [ref=e141]:
+            - heading "L’esprit d’équipe" [level=2] [ref=e142]
+            - paragraph [ref=e143]: A victoria-koa l’esprit d’équipe est une valeur fondamentale que nous inculquons aux élèves afin de renforcer les liens et créer un sentiment d’appartenance.
+    - generic [ref=e147]:
+      - heading "Nos activités" [level=2] [ref=e150]
+      - generic [ref=e154]:
+        - paragraph [ref=e155]: Victoria-koa propose à vos enfants une variété d’activités périscolaire pour enrichir leur expérience éducative.
+        - paragraph [ref=e156]: De la découverte artistique au sport, nos programme sont conçus pour favoriser l’épanouissement et le développement des talents de votre enfant dans un environnement sur et stimulant.
+        - list [ref=e157]:
+          - listitem [ref=e158]: Danse
+          - listitem [ref=e159]: Karaté
+          - listitem [ref=e160]: Piano
+          - listitem [ref=e161]: Natation
+          - listitem [ref=e162]: Théâtre
+        - paragraph [ref=e163]: Découvrez la liste des tarifs et le planning des cours
+    - generic [ref=e171]:
+      - heading "S’inscire au Groupe Scolaire VICTORIA-KOA" [level=2] [ref=e174]
+      - paragraph [ref=e181]: Toutes les informations à votre portée pour inscrire votre enfant
+    - generic [ref=e195]:
+      - heading "Nos Chiffres" [level=2] [ref=e198]
+      - generic [ref=e200]:
+        - generic [ref=e205]:
+          - generic [ref=e206]:
+            - img [ref=e207]
+            - generic [ref=e212]: "0"
+          - generic [ref=e215]: ans d'Expériences
+        - generic [ref=e220]:
+          - generic [ref=e221]:
+            - img [ref=e222]
+            - generic [ref=e227]: "0"
+          - generic [ref=e230]: Classes
+        - generic [ref=e235]:
+          - generic [ref=e236]:
+            - img [ref=e237]
+            - generic [ref=e242]: "0"
+          - generic [ref=e245]: Elèves
+        - generic [ref=e250]:
+          - generic [ref=e251]:
+            - img [ref=e252]
+            - generic [ref=e257]: "0"
+          - generic [ref=e260]: Enseignants
+    - heading "Nos classes" [level=2] [ref=e271]
+    - generic [ref=e295]:
+      - heading "Comment inscrire votre enfant dans l'une de nos classes ?" [level=2] [ref=e298]
+      - generic [ref=e300]:
+        - paragraph [ref=e301]: "1- L’école vous fournira une liste des documents à fournir tel que :"
+        - list [ref=e302]:
+          - listitem [ref=e303]: Acte de naissance de l’enfant
+          - listitem [ref=e304]: Certificat de vaccination
+          - listitem [ref=e305]: 04 photos d’identité de l’enfant
+          - listitem [ref=e306]: Les frais d’inscription
+        - paragraph [ref=e307]: "2- Remplir le formulaire d’inscription :"
+        - list [ref=e308]:
+          - listitem [ref=e309]: L’école vous fournira un formulaire d’inscription à remplir et à retourner avec les documents nécessaire.
+      - link "Plus d'information" [ref=e313] [cursor=pointer]:
+        - /url: http://demo-ecole.impactafric.com/inscription/
+        - generic [ref=e315]: Plus d'information
+    - generic [ref=e319]:
+      - heading "Actualités réccentes" [level=2] [ref=e322]
+      - generic [ref=e328]:
+        - list [ref=e329]:
+          - listitem [ref=e330]:
+            - generic [ref=e331] [cursor=pointer]: All Post
+            - emphasis
+          - listitem [ref=e332]:
+            - generic [ref=e333] [cursor=pointer]: Animmation
+            - emphasis
+          - listitem [ref=e334]:
+            - generic [ref=e335] [cursor=pointer]: Créatif
+            - emphasis
+          - listitem [ref=e336]:
+            - generic [ref=e337] [cursor=pointer]: Création
+            - emphasis
+          - listitem [ref=e338]:
+            - generic [ref=e339] [cursor=pointer]: Non classé
+        - generic [ref=e340]:
+          - article [ref=e341]:
+            - generic [ref=e342]:
+              - img "Galette des rois" [ref=e345] [cursor=pointer]
+              - generic [ref=e348]:
+                - heading "Galette des rois" [level=2] [ref=e349]:
+                  - link "Galette des rois" [ref=e351] [cursor=pointer]:
+                    - /url: https://gs-victoria-koa.kinstoreci.com/galette-des-rois/
+                - generic [ref=e354]: 9 avril 2023/
+                - link "Lire" [ref=e357] [cursor=pointer]:
+                  - /url: https://gs-victoria-koa.kinstoreci.com/galette-des-rois/
+          - article [ref=e358]:
+            - generic [ref=e359]:
+              - img "Sortie au musée" [ref=e362] [cursor=pointer]
+              - generic [ref=e365]:
+                - heading "Sortie au musée" [level=2] [ref=e366]:
+                  - link "Sortie au musée" [ref=e368] [cursor=pointer]:
+                    - /url: https://gs-victoria-koa.kinstoreci.com/sortie-au-musee/
+                - generic [ref=e371]: 9 avril 2023/
+                - link "Lire" [ref=e374] [cursor=pointer]:
+                  - /url: https://gs-victoria-koa.kinstoreci.com/sortie-au-musee/
+    - text: 
+    - generic [ref=e378]:
+      - list [ref=e381]:
+        - listitem [ref=e382]:
+          - generic [ref=e384]: 
+          - generic [ref=e385]: Groupe Scolaire Victoria-Koa
+      - iframe [ref=e389]
+  - generic [ref=e390]:
+    - generic [ref=e394]:
+      - generic [ref=e396]:
+        - generic [ref=e398]:
+          - paragraph [ref=e401]: Le Groupe Scolaire Victoria-Koa, situé à Cocody-Bonoumin, est un établissement scolaire reconnu pour son engagement en fin d’année. Il accueille des élèves dans un cadre structuré et de qualité, faisant l’objet de la confiance de nombreux parents.
+          - link "Facebook-f" [ref=e406] [cursor=pointer]:
+            - /url: https://www.facebook.com/CM.VICTORIA.KOA/
+            - generic [ref=e407]: Facebook-f
+            - generic [ref=e408]: 
+        - generic [ref=e410]:
+          - heading "Menu" [level=2] [ref=e413]
+          - heading "Accueil" [level=2] [ref=e416]:
+            - link "Accueil" [ref=e417] [cursor=pointer]:
+              - /url: https://gs-victoria-koa.kinstoreci.com/
+          - heading "A propos" [level=2] [ref=e420]:
+            - link "A propos" [ref=e421] [cursor=pointer]:
+              - /url: https://gs-victoria-koa.kinstoreci.com/a-propos/
+          - heading "Nos classes" [level=2] [ref=e424]:
+            - link "Nos classes" [ref=e425] [cursor=pointer]:
+              - /url: https://gs-victoria-koa.kinstoreci.com/les-classes/
+          - heading "Inscription" [level=2] [ref=e428]:
+            - link "Inscription" [ref=e429] [cursor=pointer]:
+              - /url: https://gs-victoria-koa.kinstoreci.com/inscription/
+          - heading "Actualités" [level=2] [ref=e432]:
+            - link "Actualités" [ref=e433] [cursor=pointer]:
+              - /url: https://gs-victoria-koa.kinstoreci.com/actualite/
+          - heading "Contact" [level=2] [ref=e436]:
+            - link "Contact" [ref=e437] [cursor=pointer]:
+              - /url: https://gs-victoria-koa.kinstoreci.com/contact/
+        - generic [ref=e439]:
+          - heading "Adresse" [level=2] [ref=e442]
+          - list [ref=e445]:
+            - listitem [ref=e446]:
+              - generic [ref=e448]: 
+              - generic [ref=e449]: (+225) 0767485594
+            - listitem [ref=e450]:
+              - generic [ref=e452]: 
+              - generic [ref=e453]: (+225) 01432384
+            - listitem [ref=e454]:
+              - generic [ref=e456]: 
+              - generic [ref=e457]: direction@gsvictoriakoa.ci
+            - listitem [ref=e458]:
+              - generic [ref=e460]: 
+              - generic [ref=e461]: victoria-koa1965@gemail.com
+      - paragraph [ref=e468]: © Copyright 2026 – Groupe Scolaire VICTORIA-KOA. Tous droits réservés
+    - link "" [ref=e477] [cursor=pointer]:
+      - /url: tel:0767485594
+      - generic [ref=e480]: 
+  - generic [ref=e481]: desktop

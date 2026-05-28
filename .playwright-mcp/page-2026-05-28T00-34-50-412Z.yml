@@ -1,0 +1,48 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e6]:
+      - img "Logo" [ref=e8]
+      - heading "Groupe Scolaire Victoria-Koa" [level=1] [ref=e9]:
+        - text: Groupe Scolaire
+        - text: Victoria-Koa
+      - paragraph [ref=e10]: Espace d'administration sécurisé
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e14]: 
+        - paragraph [ref=e15]: Gérez les actualités
+      - generic [ref=e16]:
+        - generic [ref=e18]: 
+        - paragraph [ref=e19]: Modérez les témoignages
+      - generic [ref=e20]:
+        - generic [ref=e22]: 
+        - paragraph [ref=e23]: Consultez les messages
+      - generic [ref=e24]:
+        - generic [ref=e26]: 
+        - paragraph [ref=e27]: Configurez le site
+    - paragraph [ref=e28]: © 2026 GS Victoria-Koa · Angré 9ème Tranche, Abidjan
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - heading "Connexion" [level=2] [ref=e33]
+        - paragraph [ref=e34]: Accès réservé à l'équipe de direction
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]: Adresse email
+          - generic [ref=e38]:
+            - generic [ref=e39]: 
+            - textbox "direction@gsvictoriakoa.ci" [ref=e40]
+        - generic [ref=e41]:
+          - generic [ref=e42]: Mot de passe
+          - generic [ref=e43]:
+            - generic [ref=e44]: 
+            - textbox "••••••••••" [ref=e45]
+        - generic [ref=e46]:
+          - checkbox "Se souvenir de moi" [ref=e47] [cursor=pointer]
+          - generic [ref=e48] [cursor=pointer]: Se souvenir de moi
+        - button " Se connecter" [ref=e49] [cursor=pointer]:
+          - generic [ref=e50]: 
+          - text: Se connecter
+    - link " Retour au site public" [ref=e52] [cursor=pointer]:
+      - /url: http://127.0.0.1:8000
+      - generic [ref=e53]: 
+      - text: Retour au site public

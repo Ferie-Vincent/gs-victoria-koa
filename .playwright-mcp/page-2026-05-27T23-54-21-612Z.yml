@@ -1,0 +1,247 @@
+- generic [ref=e1]:
+  - complementary [ref=e2]:
+    - generic [ref=e3]:
+      - img "Logo" [ref=e5]
+      - generic [ref=e6]:
+        - paragraph [ref=e7]: Victoria-Koa
+        - paragraph [ref=e8]: Administration
+    - navigation [ref=e9]:
+      - link " Tableau de bord Vue d'ensemble du site" [ref=e10] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin
+        - generic [ref=e12]: 
+        - generic [ref=e13]: Tableau de bord
+        - text: Vue d'ensemble du site
+      - link " Actualités Gérer les articles publiés" [ref=e14] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/actualites
+        - generic [ref=e16]: 
+        - generic [ref=e17]: Actualités
+        - text: Gérer les articles publiés
+      - link " Témoignages Modérer les avis de parents" [ref=e18] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/temoignages
+        - generic [ref=e20]: 
+        - generic [ref=e21]: Témoignages
+        - text: Modérer les avis de parents
+      - link " Messages Messages du formulaire de contact" [ref=e22] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/messages
+        - generic [ref=e24]: 
+        - generic [ref=e25]: Messages
+        - text: Messages du formulaire de contact
+      - link " Utilisateurs Gérer les comptes administrateurs" [ref=e26] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/utilisateurs
+        - generic [ref=e28]: 
+        - generic [ref=e29]: Utilisateurs
+        - text: Gérer les comptes administrateurs
+      - link " Calendrier Gérer les dates de vacances et jours fériés" [ref=e30] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/calendrier
+        - generic [ref=e32]: 
+        - generic [ref=e33]: Calendrier
+        - text: Gérer les dates de vacances et jours fériés
+      - link " Documents PDF Uploader les PDF fournitures, inscriptions…" [ref=e34] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/documents
+        - generic [ref=e36]: 
+        - generic [ref=e37]: Documents PDF
+        - text: Uploader les PDF fournitures, inscriptions…
+      - link " Paramètres Horaires, contacts, année scolaire…" [ref=e38] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/parametres
+        - generic [ref=e40]: 
+        - generic [ref=e41]: Paramètres
+        - text: Horaires, contacts, année scolaire…
+    - generic [ref=e42]:
+      - link " Voir le site public Ouvre le site public dans un nouvel onglet" [ref=e43] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000
+        - generic [ref=e44]: 
+        - text: Voir le site public Ouvre le site public dans un nouvel onglet
+      - button " Déconnexion Fermer la session administrateur" [ref=e46] [cursor=pointer]:
+        - generic [ref=e47]: 
+        - text: Déconnexion Fermer la session administrateur
+  - generic [ref=e48]:
+    - banner [ref=e49]:
+      - generic [ref=e50]:
+        - generic [ref=e51]: GS Victoria-Koa
+        - generic [ref=e52]: /
+        - heading "Témoignages" [level=1] [ref=e53]
+      - link "D Direction Administrateur Gérer les utilisateurs" [ref=e55] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/utilisateurs
+        - generic [ref=e56]: D
+        - generic [ref=e57]:
+          - paragraph [ref=e58]: Direction
+          - paragraph [ref=e59]: Administrateur
+        - text: Gérer les utilisateurs
+    - main [ref=e60]:
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - paragraph [ref=e63]: 4 témoignage(s) au total
+          - button " Nouveau témoignage Ajouter manuellement un témoignage de parent" [active] [ref=e64] [cursor=pointer]:
+            - generic [ref=e65]: 
+            - text: Nouveau témoignage Ajouter manuellement un témoignage de parent
+        - generic [ref=e67]:
+          - generic [ref=e68]: KA
+          - generic [ref=e69]:
+            - generic [ref=e70]:
+              - generic [ref=e71]:
+                - paragraph [ref=e72]: Mme Koné Adjoua
+                - generic [ref=e73]: ·
+                - paragraph [ref=e74]: Maman d'Ange, CP1
+              - generic [ref=e75]:
+                - generic [ref=e76]: Publié
+                - generic [ref=e78]:
+                  - link " Modifier ce témoignage" [ref=e79] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/admin/temoignages/1/edit
+                    - generic [ref=e80]: 
+                    - text: Modifier ce témoignage
+                  - button " Supprimer définitivement" [ref=e82] [cursor=pointer]:
+                    - generic [ref=e83]: 
+                    - text: Supprimer définitivement
+            - generic [ref=e84]:
+              - generic [ref=e85]: 
+              - generic [ref=e86]: 
+              - generic [ref=e87]: 
+              - generic [ref=e88]: 
+              - generic [ref=e89]: 
+              - generic [ref=e90]: 5/5
+            - paragraph [ref=e91]: Mon fils est épanoui depuis qu'il est à Victoria-Koa. Les enseignants sont attentionnés et l'ambiance est vraiment familiale. Je recommande cette école à tous les parents !
+        - generic [ref=e93]:
+          - generic [ref=e94]: TS
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - generic [ref=e97]:
+                - paragraph [ref=e98]: M. Traoré Seydou
+                - generic [ref=e99]: ·
+                - paragraph [ref=e100]: Papa de Fatoumata, CE1
+              - generic [ref=e101]:
+                - generic [ref=e102]: Publié
+                - generic [ref=e104]:
+                  - link " Modifier ce témoignage" [ref=e105] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/admin/temoignages/2/edit
+                    - generic [ref=e106]: 
+                    - text: Modifier ce témoignage
+                  - button " Supprimer définitivement" [ref=e108] [cursor=pointer]:
+                    - generic [ref=e109]: 
+                    - text: Supprimer définitivement
+            - generic [ref=e110]:
+              - generic [ref=e111]: 
+              - generic [ref=e112]: 
+              - generic [ref=e113]: 
+              - generic [ref=e114]: 
+              - generic [ref=e115]: 
+              - generic [ref=e116]: 5/5
+            - paragraph [ref=e117]: Nous avons choisi Victoria-Koa pour la qualité de l'enseignement et nous n'avons pas été déçus. Ma fille a fait d'énormes progrès en lecture et en mathématiques.
+        - generic [ref=e119]:
+          - generic [ref=e120]: BA
+          - generic [ref=e121]:
+            - generic [ref=e122]:
+              - generic [ref=e123]:
+                - paragraph [ref=e124]: Mme Bamba Aminata
+                - generic [ref=e125]: ·
+                - paragraph [ref=e126]: Maman de Junior, MS
+              - generic [ref=e127]:
+                - generic [ref=e128]: Publié
+                - generic [ref=e130]:
+                  - link " Modifier ce témoignage" [ref=e131] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/admin/temoignages/3/edit
+                    - generic [ref=e132]: 
+                    - text: Modifier ce témoignage
+                  - button " Supprimer définitivement" [ref=e134] [cursor=pointer]:
+                    - generic [ref=e135]: 
+                    - text: Supprimer définitivement
+            - generic [ref=e136]:
+              - generic [ref=e137]: 
+              - generic [ref=e138]: 
+              - generic [ref=e139]: 
+              - generic [ref=e140]: 
+              - generic [ref=e141]: 
+              - generic [ref=e142]: 5/5
+            - paragraph [ref=e143]: L'équipe pédagogique est vraiment dévouée. Le suivi individualisé de chaque enfant est remarquable. On se sent vraiment écouté en tant que parent.
+        - generic [ref=e145]:
+          - generic [ref=e146]: CI
+          - generic [ref=e147]:
+            - generic [ref=e148]:
+              - generic [ref=e149]:
+                - paragraph [ref=e150]: M. Coulibaly Ibrahim
+                - generic [ref=e151]: ·
+                - paragraph [ref=e152]: Papa de Youssouf, GS
+              - generic [ref=e153]:
+                - generic [ref=e154]: Publié
+                - generic [ref=e156]:
+                  - link " Modifier ce témoignage" [ref=e157] [cursor=pointer]:
+                    - /url: http://127.0.0.1:8000/admin/temoignages/4/edit
+                    - generic [ref=e158]: 
+                    - text: Modifier ce témoignage
+                  - button " Supprimer définitivement" [ref=e160] [cursor=pointer]:
+                    - generic [ref=e161]: 
+                    - text: Supprimer définitivement
+            - generic [ref=e162]:
+              - generic [ref=e163]: 
+              - generic [ref=e164]: 
+              - generic [ref=e165]: 
+              - generic [ref=e166]: 
+              - generic [ref=e167]: 
+              - generic [ref=e168]: 5/5
+            - paragraph [ref=e169]: Victoria-Koa c'est bien plus qu'une école, c'est une famille. Mon enfant pleure quand il ne peut pas y aller ! Les activités périscolaires sont fantastiques.
+        - generic [ref=e172]:
+          - generic [ref=e173]:
+            - heading "Nouveau témoignage" [level=2] [ref=e174]
+            - button " Fermer" [ref=e175] [cursor=pointer]:
+              - generic [ref=e176]: 
+              - text: Fermer
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - generic [ref=e180]:
+                - generic [ref=e181]: Nom du parent *
+                - textbox "Mme Koné Adjoua" [ref=e182]
+              - generic [ref=e183]:
+                - generic [ref=e184]: Initiales *
+                - textbox "KA" [ref=e185]
+            - generic [ref=e186]:
+              - generic [ref=e187]:
+                - generic [ref=e188]: Rôle *
+                - textbox "Maman d'Ange, CP1" [ref=e189]
+              - generic [ref=e190]:
+                - generic [ref=e191]: Couleur avatar
+                - generic [ref=e192]:
+                  - radio [ref=e194]
+                  - radio [ref=e197]
+                  - radio [ref=e200]
+                  - radio [checked] [ref=e203]
+                  - radio [ref=e206]
+                  - radio [ref=e209]
+            - generic [ref=e211]:
+              - generic [ref=e212]: Témoignage *
+              - textbox "Ce que le parent dit de l'école…" [ref=e213]
+            - generic [ref=e214]:
+              - generic [ref=e215]: Note
+              - generic [ref=e216]:
+                - generic [ref=e217] [cursor=pointer]:
+                  - radio "★ 1" [ref=e218]
+                  - generic [ref=e219]:
+                    - generic [ref=e220]: ★
+                    - generic [ref=e221]: "1"
+                - generic [ref=e222] [cursor=pointer]:
+                  - radio "★★ 2" [ref=e223]
+                  - generic [ref=e224]:
+                    - generic [ref=e225]: ★★
+                    - generic [ref=e226]: "2"
+                - generic [ref=e227] [cursor=pointer]:
+                  - radio "★★★ 3" [ref=e228]
+                  - generic [ref=e229]:
+                    - generic [ref=e230]: ★★★
+                    - generic [ref=e231]: "3"
+                - generic [ref=e232] [cursor=pointer]:
+                  - radio "★★★★ 4" [ref=e233]
+                  - generic [ref=e234]:
+                    - generic [ref=e235]: ★★★★
+                    - generic [ref=e236]: "4"
+                - generic [ref=e237] [cursor=pointer]:
+                  - radio "★★★★★ 5" [checked] [ref=e238]
+                  - generic [ref=e239]:
+                    - generic [ref=e240]: ★★★★★
+                    - generic [ref=e241]: "5"
+            - generic [ref=e242]:
+              - generic [ref=e243] [cursor=pointer]:
+                - checkbox "Afficher sur le site" [checked] [ref=e244]
+                - generic [ref=e245]: Afficher sur le site
+              - generic [ref=e246]:
+                - button "Annuler" [ref=e247] [cursor=pointer]
+                - button " Ajouter" [ref=e248] [cursor=pointer]:
+                  - generic [ref=e249]: 
+                  - text: Ajouter

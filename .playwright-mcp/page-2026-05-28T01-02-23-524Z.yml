@@ -1,0 +1,270 @@
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - img [ref=e7]
+      - generic [ref=e10]: Internal Server Error
+    - button "Copy as Markdown" [ref=e11] [cursor=pointer]:
+      - img [ref=e12]
+      - generic [ref=e15]: Copy as Markdown
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - heading "ParseError" [level=1] [ref=e20]
+      - generic [ref=e22]: resources/views/layouts/app.blade.php:238
+      - paragraph [ref=e23]: syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e27]: LARAVEL
+          - generic [ref=e28]: 13.12.0
+        - generic [ref=e29]:
+          - generic [ref=e30]: PHP
+          - generic [ref=e31]: 8.3.30
+      - generic [ref=e32]:
+        - img [ref=e33]
+        - text: UNHANDLED
+      - generic [ref=e36]: CODE 0
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - img [ref=e40]
+        - text: "500"
+      - generic [ref=e43]:
+        - img [ref=e44]
+        - text: GET
+      - generic [ref=e47]: http://127.0.0.1:8000
+      - button [ref=e48] [cursor=pointer]:
+        - img [ref=e49]
+  - generic [ref=e53]:
+    - generic [ref=e54]:
+      - generic [ref=e55]:
+        - img [ref=e57]
+        - heading "Exception trace" [level=3] [ref=e60]
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e63] [cursor=pointer]:
+            - generic [ref=e66]:
+              - code [ref=e70]:
+                - generic [ref=e71]: "Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()"
+              - generic [ref=e73]: resources/views/layouts/app.blade.php:238
+            - button [ref=e75]:
+              - img [ref=e76]
+          - code [ref=e84]:
+            - generic [ref=e85]: 233 <script src="https://cdn.jsdelivr.net/npm/glightbox@3.2.0/dist/js/glightbox.min.js"></script>
+            - generic [ref=e86]: "234"
+            - generic [ref=e87]: "235 {{-- App JS --}}"
+            - generic [ref=e88]: 236 @vite('resources/js/app.js')
+            - generic [ref=e89]: "237"
+            - generic [ref=e90]: 238 @stack('scripts')
+            - generic [ref=e91]: "239"
+            - generic [ref=e92]: 240 <script>
+            - generic [ref=e93]: "241 (function () {"
+            - generic [ref=e94]: 242 var el = document.getElementById('preloader');
+            - generic [ref=e95]: "243 function hide() { el.classList.add('hidden'); }"
+            - generic [ref=e96]: "244 if (document.readyState === 'complete') {"
+            - generic [ref=e97]: 245 setTimeout(hide, 200);
+            - generic [ref=e98]: "246 } else {"
+            - generic [ref=e99]: "247 window.addEventListener('load', function () { setTimeout(hide, 200); });"
+            - generic [ref=e100]: "248 }"
+            - generic [ref=e101]: "249 })();"
+            - generic [ref=e102]: "250"
+        - generic [ref=e104] [cursor=pointer]:
+          - img [ref=e105]
+          - generic [ref=e109]: 6 vendor frames
+          - button [ref=e110]:
+            - img [ref=e111]
+        - generic [ref=e116] [cursor=pointer]:
+          - generic [ref=e119]:
+            - code [ref=e123]:
+              - generic [ref=e124]: Illuminate\View\View->render()
+            - generic [ref=e126]: resources/views/pages/home.blade.php:44
+          - button [ref=e128]:
+            - img [ref=e129]
+        - generic [ref=e134] [cursor=pointer]:
+          - img [ref=e135]
+          - generic [ref=e139]: 55 vendor frames
+          - button [ref=e140]:
+            - img [ref=e141]
+        - generic [ref=e146] [cursor=pointer]:
+          - generic [ref=e149]:
+            - code [ref=e153]:
+              - generic [ref=e154]: Illuminate\Foundation\Application->handleRequest(object(Illuminate\Http\Request))
+            - generic [ref=e156]: public/index.php:20
+          - button [ref=e158]:
+            - img [ref=e159]
+        - generic [ref=e164] [cursor=pointer]:
+          - img [ref=e165]
+          - generic [ref=e169]: 1 vendor frame
+          - button [ref=e170]:
+            - img [ref=e171]
+    - generic [ref=e175]:
+      - generic [ref=e176]:
+        - generic [ref=e177]:
+          - img [ref=e179]
+          - heading "Queries" [level=3] [ref=e181]
+        - generic [ref=e183]: 1-10 of 100
+      - generic [ref=e184]:
+        - generic [ref=e185]:
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - img [ref=e188]
+              - generic [ref=e190]: mysql
+            - code [ref=e194]:
+              - generic [ref=e195]: "select * from `actualites` where `publie` = 1 order by `date_publication` desc limit 3"
+          - generic [ref=e196]: 13.1ms
+        - generic [ref=e197]:
+          - generic [ref=e198]:
+            - generic [ref=e199]:
+              - img [ref=e200]
+              - generic [ref=e202]: mysql
+            - code [ref=e206]:
+              - generic [ref=e207]: "select * from `temoignages` where `publie` = 1 order by `id` asc"
+          - generic [ref=e208]: 1ms
+        - generic [ref=e209]:
+          - generic [ref=e210]:
+            - generic [ref=e211]:
+              - img [ref=e212]
+              - generic [ref=e214]: mysql
+            - code [ref=e218]:
+              - generic [ref=e219]: "select `valeur`, `cle` from `settings`"
+          - generic [ref=e220]: 2.62ms
+        - generic [ref=e221]:
+          - generic [ref=e222]:
+            - generic [ref=e223]:
+              - img [ref=e224]
+              - generic [ref=e226]: mysql
+            - code [ref=e230]:
+              - generic [ref=e231]: "select `valeur`, `cle` from `settings`"
+          - generic [ref=e232]: 0.8ms
+        - generic [ref=e233]:
+          - generic [ref=e234]:
+            - generic [ref=e235]:
+              - img [ref=e236]
+              - generic [ref=e238]: mysql
+            - code [ref=e242]:
+              - generic [ref=e243]: "select `valeur`, `cle` from `settings`"
+          - generic [ref=e244]: 4.78ms
+        - generic [ref=e245]:
+          - generic [ref=e246]:
+            - generic [ref=e247]:
+              - img [ref=e248]
+              - generic [ref=e250]: mysql
+            - code [ref=e254]:
+              - generic [ref=e255]: "select `valeur`, `cle` from `settings`"
+          - generic [ref=e256]: 0.98ms
+        - generic [ref=e257]:
+          - generic [ref=e258]:
+            - generic [ref=e259]:
+              - img [ref=e260]
+              - generic [ref=e262]: mysql
+            - code [ref=e266]:
+              - generic [ref=e267]: "select `valeur`, `cle` from `settings`"
+          - generic [ref=e268]: 0.88ms
+        - generic [ref=e269]:
+          - generic [ref=e270]:
+            - generic [ref=e271]:
+              - img [ref=e272]
+              - generic [ref=e274]: mysql
+            - code [ref=e278]:
+              - generic [ref=e279]: "select `valeur`, `cle` from `settings`"
+          - generic [ref=e280]: 0.62ms
+        - generic [ref=e281]:
+          - generic [ref=e282]:
+            - generic [ref=e283]:
+              - img [ref=e284]
+              - generic [ref=e286]: mysql
+            - code [ref=e290]:
+              - generic [ref=e291]: "select `valeur`, `cle` from `settings`"
+          - generic [ref=e292]: 0.56ms
+        - generic [ref=e293]:
+          - generic [ref=e294]:
+            - generic [ref=e295]:
+              - img [ref=e296]
+              - generic [ref=e298]: mysql
+            - code [ref=e302]:
+              - generic [ref=e303]: "select `valeur`, `cle` from `settings`"
+          - generic [ref=e304]: 0.87ms
+      - generic [ref=e305]:
+        - button [disabled] [ref=e306]:
+          - img [ref=e307]
+        - button [disabled] [ref=e310]:
+          - img [ref=e311]
+        - button "1" [ref=e314] [cursor=pointer]
+        - button "2" [ref=e316] [cursor=pointer]
+        - button "3" [ref=e318] [cursor=pointer]
+        - button "4" [ref=e320] [cursor=pointer]
+        - button "5" [ref=e322] [cursor=pointer]
+        - generic [ref=e324]: ...
+        - button "10" [ref=e326] [cursor=pointer]
+        - button [ref=e327] [cursor=pointer]:
+          - img [ref=e328]
+        - button [ref=e330] [cursor=pointer]:
+          - img [ref=e331]
+  - generic [ref=e335]:
+    - generic [ref=e336]:
+      - heading "Headers" [level=2] [ref=e337]
+      - generic [ref=e338]:
+        - generic [ref=e339]:
+          - generic [ref=e340]: host
+          - generic [ref=e342]: 127.0.0.1:8000
+        - generic [ref=e343]:
+          - generic [ref=e344]: connection
+          - generic [ref=e346]: keep-alive
+        - generic [ref=e347]:
+          - generic [ref=e348]: sec-ch-ua
+          - generic [ref=e350]: "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \"Not/A)Brand\";v=\"99\""
+        - generic [ref=e351]:
+          - generic [ref=e352]: sec-ch-ua-mobile
+          - generic [ref=e354]: "?0"
+        - generic [ref=e355]:
+          - generic [ref=e356]: sec-ch-ua-platform
+          - generic [ref=e358]: "\"macOS\""
+        - generic [ref=e359]:
+          - generic [ref=e360]: upgrade-insecure-requests
+          - generic [ref=e362]: "1"
+        - generic [ref=e363]:
+          - generic [ref=e364]: user-agent
+          - generic [ref=e366]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+        - generic [ref=e367]:
+          - generic [ref=e368]: accept
+          - generic [ref=e370]: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+        - generic [ref=e371]:
+          - generic [ref=e372]: sec-fetch-site
+          - generic [ref=e374]: none
+        - generic [ref=e375]:
+          - generic [ref=e376]: sec-fetch-mode
+          - generic [ref=e378]: navigate
+        - generic [ref=e379]:
+          - generic [ref=e380]: sec-fetch-user
+          - generic [ref=e382]: "?1"
+        - generic [ref=e383]:
+          - generic [ref=e384]: sec-fetch-dest
+          - generic [ref=e386]: document
+        - generic [ref=e387]:
+          - generic [ref=e388]: accept-encoding
+          - generic [ref=e390]: gzip, deflate, br, zstd
+        - generic [ref=e391]:
+          - generic [ref=e392]: accept-language
+          - generic [ref=e394]: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+        - generic [ref=e395]:
+          - generic [ref=e396]: cookie
+          - generic [ref=e398]: XSRF-TOKEN=eyJpdiI6ImJrSldjVzkrNWViSndxSFNRQUp6aXc9PSIsInZhbHVlIjoiWFFYRHMzbGVScTNManNlSEh5MDZ1VGlVVEMxeVlKVVF2bFpnZGhUdUs5WGFoSzZURC96UXFZeG4vYyt1K2ppV2d6VzNieWJSemtLZ0tzUDk4M3ZYRHkwek54anpxWmQybWdDck85TmcxLytEcTRPVUl4YmJoczdrTkhvbW5VQlgiLCJtYWMiOiI5NjQ3MjUyNjU3YjY3NjdlZGE3NTY3NTliZjliYWUyNjExNDkzYTAxMDdkZjA1ZmIzZjY3YWU4MGRiYzc0OTQ3IiwidGFnIjoiIn0%3D; gs-victoria-koa-session=eyJpdiI6Im4yQWV1QUx6WWZnTjZpRWN4R0ljMkE9PSIsInZhbHVlIjoiWWZsTU1vYVRFTE04VExjUzBVNVZEaVprdGIxTkVyeFRpaFJKWjd0NUp6dFlpM0Iyd1Q3b2RGcjZudjhNYTFnT1cvNmJuQ2lyRUdTTWMvVWhFUEt6ZHpkWkJPM2MybHllcDRVVTM1K2V4bTU5UWlETTA5VXlUUGRML3VNeEdGUnIiLCJtYWMiOiI2NjM3ZWY0NzdhMzNiMDU4YzM0MDZjZmFkOGU0ODdhNGM4NDAzNDJhODdiYmEwNzllNTZmOTZjZTZlMzJhZjQ1IiwidGFnIjoiIn0%3D
+    - generic [ref=e399]:
+      - heading "Body" [level=2] [ref=e400]
+      - generic [ref=e401]: // No request body
+    - generic [ref=e402]:
+      - heading "Routing" [level=2] [ref=e403]
+      - generic [ref=e404]:
+        - generic [ref=e405]:
+          - generic [ref=e406]: controller
+          - generic [ref=e408]: App\Http\Controllers\HomeController@index
+        - generic [ref=e409]:
+          - generic [ref=e410]: route name
+          - generic [ref=e412]: home
+        - generic [ref=e413]:
+          - generic [ref=e414]: middleware
+          - generic [ref=e416]: web
+    - generic [ref=e417]:
+      - heading "Routing parameters" [level=2] [ref=e418]
+      - generic [ref=e419]: // No routing parameters
+  - generic [ref=e422]:
+    - img [ref=e424]
+    - img [ref=e3462]

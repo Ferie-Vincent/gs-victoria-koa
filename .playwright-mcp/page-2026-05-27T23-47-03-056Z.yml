@@ -1,0 +1,151 @@
+- generic [active] [ref=e1]:
+  - complementary [ref=e2]:
+    - generic [ref=e3]:
+      - img "Logo" [ref=e5]
+      - generic [ref=e6]:
+        - paragraph [ref=e7]: Victoria-Koa
+        - paragraph [ref=e8]: Administration
+    - navigation [ref=e9]:
+      - link " Tableau de bord Vue d'ensemble du site" [ref=e10] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin
+        - generic [ref=e12]: 
+        - generic [ref=e13]: Tableau de bord
+        - text: Vue d'ensemble du site
+      - link " Actualités Gérer les articles publiés" [ref=e14] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/actualites
+        - generic [ref=e16]: 
+        - generic [ref=e17]: Actualités
+        - text: Gérer les articles publiés
+      - link " Témoignages Modérer les avis de parents" [ref=e18] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/temoignages
+        - generic [ref=e20]: 
+        - generic [ref=e21]: Témoignages
+        - text: Modérer les avis de parents
+      - link " Messages Messages du formulaire de contact" [ref=e22] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/messages
+        - generic [ref=e24]: 
+        - generic [ref=e25]: Messages
+        - text: Messages du formulaire de contact
+      - link " Utilisateurs Gérer les comptes administrateurs" [ref=e26] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/utilisateurs
+        - generic [ref=e28]: 
+        - generic [ref=e29]: Utilisateurs
+        - text: Gérer les comptes administrateurs
+      - link " Calendrier Gérer les dates de vacances et jours fériés" [ref=e30] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/calendrier
+        - generic [ref=e32]: 
+        - generic [ref=e33]: Calendrier
+        - text: Gérer les dates de vacances et jours fériés
+      - link " Documents PDF Uploader les PDF fournitures, inscriptions…" [ref=e34] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/documents
+        - generic [ref=e36]: 
+        - generic [ref=e37]: Documents PDF
+        - text: Uploader les PDF fournitures, inscriptions…
+      - link " Paramètres Horaires, contacts, année scolaire…" [ref=e38] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/parametres
+        - generic [ref=e40]: 
+        - generic [ref=e41]: Paramètres
+        - text: Horaires, contacts, année scolaire…
+    - generic [ref=e42]:
+      - link " Voir le site public Ouvre le site public dans un nouvel onglet" [ref=e43] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000
+        - generic [ref=e44]: 
+        - text: Voir le site public Ouvre le site public dans un nouvel onglet
+      - button " Déconnexion Fermer la session administrateur" [ref=e46] [cursor=pointer]:
+        - generic [ref=e47]: 
+        - text: Déconnexion Fermer la session administrateur
+  - generic [ref=e48]:
+    - banner [ref=e49]:
+      - generic [ref=e50]:
+        - generic [ref=e51]: GS Victoria-Koa
+        - generic [ref=e52]: /
+        - heading "Tableau de bord" [level=1] [ref=e53]
+      - link "D Direction Administrateur Gérer les utilisateurs" [ref=e55] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/utilisateurs
+        - generic [ref=e56]: D
+        - generic [ref=e57]:
+          - paragraph [ref=e58]: Direction
+          - paragraph [ref=e59]: Administrateur
+        - text: Gérer les utilisateurs
+    - main [ref=e60]:
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - heading "Bonjour, Direction 👋" [level=2] [ref=e63]
+          - paragraph [ref=e64]: Wednesday 27 May 2026 · Année scolaire 2025-2026
+        - link " Nouvelle actualité" [ref=e66] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/admin/actualites/create
+          - generic [ref=e67]: 
+          - text: Nouvelle actualité
+      - generic [ref=e68]:
+        - link "  9 Actualités publiées" [ref=e69] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/admin/actualites
+          - generic [ref=e70]:
+            - generic [ref=e72]: 
+            - generic [ref=e73]: 
+          - paragraph [ref=e74]: "9"
+          - paragraph [ref=e75]: Actualités publiées
+        - link "  4 Témoignages" [ref=e78] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/admin/temoignages
+          - generic [ref=e79]:
+            - generic [ref=e81]: 
+            - generic [ref=e82]: 
+          - paragraph [ref=e83]: "4"
+          - paragraph [ref=e84]: Témoignages
+        - link "  0 Messages reçus" [ref=e87] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/admin/messages
+          - generic [ref=e88]:
+            - generic [ref=e90]: 
+            - generic [ref=e91]: 
+          - paragraph [ref=e92]: "0"
+          - paragraph [ref=e93]: Messages reçus
+        - link " 0 Aucun message non lu" [ref=e95] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/admin/messages
+          - generic [ref=e98]: 
+          - paragraph [ref=e99]: "0"
+          - paragraph [ref=e100]: Aucun message non lu
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - heading " Actions rapides" [level=3] [ref=e103]:
+            - generic [ref=e104]: 
+            - text: Actions rapides
+          - generic [ref=e105]:
+            - link " Actualité" [ref=e106] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/admin/actualites/create
+              - generic [ref=e108]: 
+              - generic [ref=e109]: Actualité
+            - link " Témoignage" [ref=e110] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/admin/temoignages/create
+              - generic [ref=e112]: 
+              - generic [ref=e113]: Témoignage
+            - link " Messages" [ref=e114] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/admin/messages
+              - generic [ref=e116]: 
+              - generic [ref=e117]: Messages
+            - link " Paramètres" [ref=e118] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/admin/parametres
+              - generic [ref=e120]: 
+              - generic [ref=e121]: Paramètres
+        - generic [ref=e122]:
+          - heading " École" [level=3] [ref=e123]:
+            - generic [ref=e124]: 
+            - text: École
+          - generic [ref=e125]:
+            - generic [ref=e126]:
+              - generic [ref=e128]: 
+              - generic [ref=e129]:
+                - paragraph [ref=e130]: Année
+                - paragraph [ref=e131]: 2025-2026
+            - generic [ref=e132]:
+              - generic [ref=e134]: 
+              - generic [ref=e135]:
+                - paragraph [ref=e136]: Tél. 1
+                - paragraph [ref=e137]: (+225) 07 67 48 55 94
+            - generic [ref=e138]:
+              - generic [ref=e140]: 
+              - generic [ref=e141]:
+                - paragraph [ref=e142]: Email
+                - paragraph [ref=e143]: direction@gsvictoriakoa.ci
+            - link "Modifier les paramètres " [ref=e145] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/admin/parametres
+              - text: Modifier les paramètres
+              - generic [ref=e146]: 

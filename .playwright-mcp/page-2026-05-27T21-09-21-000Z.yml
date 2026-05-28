@@ -1,0 +1,337 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]: K K I I D D Z Z A A
+    - paragraph [ref=e6]: Loading
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - link "logo-img" [ref=e12] [cursor=pointer]:
+        - /url: index.html
+        - img "logo-img" [ref=e13]
+      - button "" [ref=e15] [cursor=pointer]:
+        - generic [ref=e16]: 
+    - heading "Hello There!" [level=3] [ref=e17]
+    - paragraph [ref=e18]: Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi natus quasi sunt eum ducimus.
+    - generic [ref=e19]:
+      - link "" [ref=e20] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - generic [ref=e21]: 
+      - link "" [ref=e22] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - generic [ref=e23]: 
+      - link "" [ref=e24] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - generic [ref=e25]: 
+      - link "" [ref=e26] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - generic [ref=e27]: 
+    - generic [ref=e28]:
+      - heading "Contact Us" [level=3] [ref=e29]
+      - list [ref=e30]:
+        - listitem [ref=e31]:
+          - generic [ref=e33]: 
+          - generic [ref=e34]:
+            - paragraph [ref=e35]: Call Us
+            - heading "+49 (03) 9834 939 99" [level=4] [ref=e36]:
+              - link "+49 (03) 9834 939 99" [ref=e37] [cursor=pointer]:
+                - /url: tel:+4903983493999
+        - listitem [ref=e38]:
+          - generic [ref=e40]: 
+          - generic [ref=e41]:
+            - paragraph [ref=e42]: Send Email
+            - heading "yordomain@gmial.com" [level=4] [ref=e43]:
+              - link "yordomain@gmial.com" [ref=e44] [cursor=pointer]:
+                - /url: mailto:yordomain@gmial.com
+        - listitem [ref=e45]:
+          - generic [ref=e47]: 
+          - generic [ref=e48]:
+            - paragraph [ref=e49]: Location
+            - heading "Chicago 53755 NY, USA" [level=4] [ref=e50]
+    - link "Start Learning " [ref=e51] [cursor=pointer]:
+      - /url: contact.html
+      - text: Start Learning
+      - generic [ref=e52]: 
+  - banner [ref=e53]:
+    - generic [ref=e54]:
+      - img "img" [ref=e56]
+      - generic [ref=e58]:
+        - paragraph [ref=e59]:
+          - text: Kindergarten is an early childhood educational environment
+          - link "Learn More" [ref=e60] [cursor=pointer]:
+            - /url: contact.html
+        - list [ref=e61]:
+          - listitem [ref=e62]:
+            - generic [ref=e63]: 
+            - link "kidza@gmial.com" [ref=e64] [cursor=pointer]:
+              - /url: mailto:kidza@gmial.com
+          - listitem [ref=e65]:
+            - generic [ref=e66]: 
+            - link "+00 (47) 939 4888" [ref=e67] [cursor=pointer]:
+              - /url: tel:+00479394888
+          - listitem [ref=e68]: Graaf Floriss 22A CH NY
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - link "img" [ref=e74] [cursor=pointer]:
+          - /url: index.html
+          - img "img" [ref=e75]
+        - button " Categories " [ref=e77] [cursor=pointer]:
+          - generic [ref=e79]: 
+          - text: Categories
+          - generic [ref=e81]: 
+      - navigation [ref=e84]:
+        - list [ref=e85]:
+          - listitem [ref=e86]:
+            - link "Home " [ref=e87] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: Home
+              - generic [ref=e88]: 
+          - listitem [ref=e89]:
+            - link "Pages " [ref=e90] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: Pages
+              - generic [ref=e91]: 
+          - listitem [ref=e92]:
+            - link "Programs " [ref=e93] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: Programs
+              - generic [ref=e94]: 
+          - listitem [ref=e95]:
+            - link "Blog " [ref=e96] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: Blog
+              - generic [ref=e97]: 
+          - listitem [ref=e98]:
+            - link "Shop " [ref=e99] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: Shop
+              - generic [ref=e100]: 
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - link "" [ref=e103] [cursor=pointer]:
+            - /url: "#"
+            - generic [ref=e104]: 
+          - button "" [ref=e105] [cursor=pointer]:
+            - generic [ref=e106]: 
+        - link "Start Learning " [ref=e107] [cursor=pointer]:
+          - /url: contact.html
+          - text: Start Learning
+          - generic [ref=e108]: 
+        - text: 
+  - generic [ref=e110]:
+    - search:
+      - textbox "Search Here..." [ref=e111]
+      - button "search submit" [ref=e112] [cursor=pointer]:
+        - generic [ref=e114]: 
+  - generic [ref=e115]:
+    - img "shape-img" [ref=e117]
+    - img "shape-img" [ref=e119]
+    - img "shape-img" [ref=e121]
+    - img "shape-img" [ref=e123]
+    - img "shape-img" [ref=e125]
+    - generic [ref=e128]:
+      - generic [ref=e130]:
+        - heading "A H a p p y P l a c e t" [level=1] [ref=e131]:
+          - generic [ref=e133]: A
+          - generic [ref=e134]:
+            - generic [ref=e135]: H
+            - generic [ref=e136]: a
+            - generic [ref=e137]: p
+            - generic [ref=e138]: p
+            - generic [ref=e139]: "y"
+          - generic [ref=e140]:
+            - generic [ref=e141]: P
+            - generic [ref=e142]: l
+            - generic [ref=e143]: a
+            - generic [ref=e144]: c
+            - generic [ref=e145]: e
+          - generic [ref=e147]: t
+        - paragraph [ref=e152]:
+          - text: Kindergarten is an early childhood educational environment where
+          - text: most young for your children life.
+        - generic [ref=e153]:
+          - link "Online Admission " [ref=e154] [cursor=pointer]:
+            - /url: contact.html
+            - text: Online Admission
+            - generic [ref=e155]: 
+          - generic [ref=e156]:
+            - link "" [ref=e161] [cursor=pointer]:
+              - /url: https://www.youtube.com/watch?v=Cn4G2lZ_g2I
+              - generic [ref=e162]: 
+            - paragraph [ref=e163]: Paly Video
+      - generic [ref=e165]:
+        - img "hero-img" [ref=e166]
+        - img "shape-img" [ref=e168]
+  - generic [ref=e169]:
+    - img "shape-img" [ref=e171]
+    - img "shape-img" [ref=e173]
+    - img "shape-img" [ref=e175]
+    - img "shape-img" [ref=e177]
+    - img "shape-img" [ref=e179]
+    - generic [ref=e182]:
+      - generic [ref=e186]:
+        - img "shape-img" [ref=e187]
+        - generic [ref=e188]:
+          - generic [ref=e189]:
+            - heading "0" [level=2] [ref=e190]:
+              - generic [ref=e196]: "0"
+            - generic [ref=e197]: +
+          - paragraph [ref=e198]: Experience
+      - heading [level=2] [ref=e202]
+  - generic [ref=e217]:
+    - heading "Toddler" [level=3] [ref=e219]
+    - paragraph [ref=e220]: Dolor sit amet, adipiscing elit. Nibh ullamcorper felis arcu elementum.
+    - link "Learn More " [ref=e221] [cursor=pointer]:
+      - /url: program-details.html
+      - text: Learn More
+      - generic [ref=e222]: 
+    - heading "Preschool" [level=3] [ref=e224]
+    - paragraph [ref=e225]: Dolor sit amet, adipiscing elit. Nibh ullamcorper felis arcu elementum.
+    - link "Learn More " [ref=e226] [cursor=pointer]:
+      - /url: program-details.html
+      - text: Learn More
+      - generic [ref=e227]: 
+    - heading "Kindergarten" [level=3] [ref=e229]
+    - paragraph [ref=e230]: Dolor sit amet, adipiscing elit. Nibh ullamcorper felis arcu elementum.
+    - link "Learn More " [ref=e231] [cursor=pointer]:
+      - /url: program-details.html
+      - text: Learn More
+      - generic [ref=e232]: 
+    - heading "Pre-K Program" [level=3] [ref=e234]
+    - paragraph [ref=e235]: Dolor sit amet, adipiscing elit. Nibh ullamcorper felis arcu elementum.
+    - link "Learn More " [ref=e236] [cursor=pointer]:
+      - /url: program-details.html
+      - text: Learn More
+      - generic [ref=e237]: 
+  - generic [ref=e238]:
+    - img "shape-img" [ref=e240]
+    - img "shape-img" [ref=e242]
+    - img "shape-img" [ref=e244]
+    - img "shape-img" [ref=e246]
+    - img "shape-img" [ref=e248]
+    - generic [ref=e249]:
+      - generic [ref=e250]:
+        - generic [ref=e251]: Our Classes
+        - heading [level=2] [ref=e252]
+      - generic [ref=e263]:
+        - generic [ref=e264]:
+          - heading "Last Day of School end of Year Picnic" [level=3] [ref=e265]:
+            - link "Last Day of School end of Year Picnic" [ref=e266] [cursor=pointer]:
+              - /url: program-details.html
+          - link "Get Ticket" [ref=e267] [cursor=pointer]:
+            - /url: program-details.html
+            - text: Get Ticket
+            - generic [ref=e268]: 
+          - paragraph [ref=e269]: (10 Review)
+        - generic [ref=e270]:
+          - heading "Spring Garden Exploration Week for Children" [level=3] [ref=e271]:
+            - link "Spring Garden Exploration Week for Children" [ref=e272] [cursor=pointer]:
+              - /url: program-details.html
+          - link "Get Ticket" [ref=e273] [cursor=pointer]:
+            - /url: program-details.html
+            - text: Get Ticket
+            - generic [ref=e274]: 
+          - paragraph [ref=e275]: (10 Review)
+        - generic [ref=e276]:
+          - heading "Color Day Creative Festival With Creative Design" [level=3] [ref=e277]:
+            - link "Color Day Creative Festival With Creative Design" [ref=e278] [cursor=pointer]:
+              - /url: program-details.html
+          - link "Get Ticket" [ref=e279] [cursor=pointer]:
+            - /url: program-details.html
+            - text: Get Ticket
+            - generic [ref=e280]: 
+          - paragraph [ref=e281]: (10 Review)
+  - generic [ref=e282]:
+    - img "shape-img" [ref=e284]
+    - img "shape-img" [ref=e286]
+    - img "shape-img" [ref=e288]
+    - img "shape-img" [ref=e290]
+    - generic [ref=e293]:
+      - generic [ref=e295]:
+        - img "choose-image" [ref=e296]
+        - img "choose-image" [ref=e297]
+        - img "choose-image" [ref=e299]
+      - heading [level=2] [ref=e303]
+  - generic [ref=e314]:
+    - img "shape-img" [ref=e316]
+    - generic [ref=e318]:
+      - generic [ref=e319]: Our Teacher
+      - heading [level=2] [ref=e320]
+    - generic [ref=e326]:
+      - link "John Smith" [ref=e327] [cursor=pointer]:
+        - /url: team-details.html
+      - link "David William" [ref=e328] [cursor=pointer]:
+        - /url: team-details.html
+      - link "Sarah William" [ref=e329] [cursor=pointer]:
+        - /url: team-details.html
+  - generic [ref=e330]:
+    - img "shape-img" [ref=e332]
+    - img "shape-img" [ref=e334]
+  - heading [level=2] [ref=e344]
+  - generic [ref=e351]:
+    - img "icon-image" [ref=e353]
+    - img "icon-image" [ref=e355]
+    - generic [ref=e356]:
+      - heading [level=2] [ref=e358]
+      - generic [ref=e365]:
+        - generic:
+          - button "Next slide" [ref=e368] [cursor=pointer]:
+            - generic [ref=e369]: 
+          - button "Previous slide" [ref=e370] [cursor=pointer]:
+            - generic [ref=e371]: 
+  - generic [ref=e376]:
+    - img "shape-img" [ref=e378]
+    - img "shape-img" [ref=e380]
+    - img "shape-img" [ref=e382]
+    - generic [ref=e383]:
+      - heading [level=2] [ref=e386]
+      - generic [ref=e392]:
+        - generic [ref=e393]:
+          - link "+483 9399 939 00" [ref=e394] [cursor=pointer]:
+            - /url: "#"
+          - link "helloflybed@gmail.com" [ref=e395] [cursor=pointer]:
+            - /url: mailto:helloflybed@gmail
+        - heading "Send Your Message" [level=3] [ref=e398]
+  - generic [ref=e401]:
+    - img "shape-img" [ref=e403]
+    - img "shape-img" [ref=e405]
+    - generic [ref=e406]:
+      - generic [ref=e407]:
+        - generic [ref=e408]: Our Blog & News
+        - heading [level=2] [ref=e409]
+      - generic [ref=e415]:
+        - link "10 Fun Learning Activities for Preschoolers at Home" [ref=e421] [cursor=pointer]:
+          - /url: news-details.html
+        - link "How to Prepare Your Child for Their First Day" [ref=e427] [cursor=pointer]:
+          - /url: news-details.html
+        - link "Creative Arts & Crafts Ideas for Young Kids" [ref=e433] [cursor=pointer]:
+          - /url: news-details.html
+  - heading [level=2] [ref=e437]
+  - contentinfo [ref=e446]:
+    - img "shape-img" [ref=e448]
+    - img "shape-img" [ref=e450]
+    - img "shape-img" [ref=e452]
+    - generic [ref=e454]:
+      - generic [ref=e455]:
+        - link "Courses" [ref=e456] [cursor=pointer]:
+          - /url: program.html
+        - link "Program" [ref=e457] [cursor=pointer]:
+          - /url: program.html
+        - link "About Us" [ref=e458] [cursor=pointer]:
+          - /url: about.html
+        - link "Contact Us" [ref=e459] [cursor=pointer]:
+          - /url: contact.html
+        - link "Our Support" [ref=e460] [cursor=pointer]:
+          - /url: contact.html
+        - link "System Status" [ref=e461] [cursor=pointer]:
+          - /url: contact.html
+        - link "Knowledge base" [ref=e462] [cursor=pointer]:
+          - /url: contact.html
+        - link "Blog & News" [ref=e463] [cursor=pointer]:
+          - /url: news.html
+        - link "support@kidza.com" [ref=e464] [cursor=pointer]:
+          - /url: mailto:helloseoz@gmial.com
+        - 'link "Office: 2220 Plymouth R02 Road, Hopkins, Minnesota(MN), UK" [ref=e465] [cursor=pointer]':
+          - /url: "#"
+          - text: "Office: 2220 Plymouth R02 Road,"
+          - text: Hopkins, Minnesota(MN), UK
+      - link "Kidza" [ref=e466] [cursor=pointer]:
+        - /url: index.html

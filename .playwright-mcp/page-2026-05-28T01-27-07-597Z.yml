@@ -1,0 +1,185 @@
+- generic [active] [ref=e1]:
+  - status "Chargement en cours" [ref=e2]:
+    - img "GS Victoria-Koa" [ref=e6]
+    - paragraph [ref=e7]: GS Victoria-Koa
+  - navigation "Navigation principale" [ref=e12]:
+    - generic [ref=e14]:
+      - link "Accueil VICTORIA-KOA" [ref=e15] [cursor=pointer]:
+        - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php
+        - img "Logo GS VICTORIA-KOA" [ref=e16]
+        - generic [ref=e17]:
+          - text: VICTORIA-KOA
+          - paragraph [ref=e18]: Centre Maternel & Primaire
+      - generic [ref=e19]:
+        - link "Accueil" [ref=e20] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php
+        - generic [ref=e21]:
+          - button "Vie Scolaire" [ref=e22] [cursor=pointer]:
+            - text: Vie Scolaire
+            - img [ref=e23]
+          - text:    
+        - link "Inscription" [ref=e25] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/inscription
+        - link "Galeries" [ref=e26] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/galleries
+        - link "Actualités" [ref=e27] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/actualites
+        - link "À Propos" [ref=e28] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/a-propos
+        - link "Contact" [ref=e29] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/contact
+          - img [ref=e30]
+          - text: Contact
+    - text:          
+  - main [ref=e32]:
+    - generic [ref=e33]:
+      - img "Journée sportive 2026" [ref=e35]
+      - generic [ref=e37]:
+        - navigation [ref=e38]:
+          - link "Accueil" [ref=e39] [cursor=pointer]:
+            - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php
+          - generic [ref=e40]: 
+          - link "Actualités" [ref=e41] [cursor=pointer]:
+            - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/actualites
+          - generic [ref=e42]: 
+          - generic [ref=e43]: Journée sportive 2026
+        - generic [ref=e44]: Sport
+        - heading "Journée sportive 2026" [level=1] [ref=e45]
+        - generic [ref=e46]:
+          - generic [ref=e47]:
+            - generic [ref=e48]: 
+            - text: 28 January 2026
+          - generic [ref=e49]: ·
+          - generic [ref=e50]:
+            - generic [ref=e51]: 
+            - text: GS Victoria-Koa
+    - generic [ref=e52]:
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - paragraph [ref=e57]: Nos élèves ont participé à une magnifique journée sportive pleine d'enthousiasme et de bonne humeur.
+          - generic [ref=e58]:
+            - link "Retour aux actualités" [ref=e59] [cursor=pointer]:
+              - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/actualites
+              - img [ref=e60]
+              - text: Retour aux actualités
+            - generic [ref=e62]: Groupe Scolaire VICTORIA-KOA — Angré, Abidjan
+        - complementary [ref=e63]:
+          - generic [ref=e64]:
+            - heading "Contacter l'école" [level=4] [ref=e65]
+            - generic [ref=e66]:
+              - link " (+225) 07 67 48 55 94" [ref=e67] [cursor=pointer]:
+                - /url: tel:(+225)0767485594
+                - generic [ref=e69]: 
+                - text: (+225) 07 67 48 55 94
+              - link " direction@gsvictoriakoa.ci" [ref=e70] [cursor=pointer]:
+                - /url: mailto:direction@gsvictoriakoa.ci
+                - generic [ref=e72]: 
+                - text: direction@gsvictoriakoa.ci
+            - link " Inscrire mon enfant" [ref=e74] [cursor=pointer]:
+              - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/inscription
+              - generic [ref=e75]: 
+              - text: Inscrire mon enfant
+      - img
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - heading " Autres actualités" [level=2] [ref=e78]:
+          - generic [ref=e79]: 
+          - text: Autres actualités
+        - generic [ref=e80]:
+          - link "Célébration en uniforme Événement 28 January 2026 Célébration en uniforme" [ref=e81] [cursor=pointer]:
+            - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/actualites/2
+            - generic [ref=e82]:
+              - img "Célébration en uniforme" [ref=e83]
+              - generic [ref=e85]: Événement
+            - generic [ref=e86]:
+              - paragraph [ref=e87]: 28 January 2026
+              - heading "Célébration en uniforme" [level=3] [ref=e88]
+          - link "Nos élèves rayonnent Événement 28 January 2026 Nos élèves rayonnent" [ref=e89] [cursor=pointer]:
+            - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/actualites/3
+            - generic [ref=e90]:
+              - img "Nos élèves rayonnent" [ref=e91]
+              - generic [ref=e93]: Événement
+            - generic [ref=e94]:
+              - paragraph [ref=e95]: 28 January 2026
+              - heading "Nos élèves rayonnent" [level=3] [ref=e96]
+          - link "Activités de groupe Animation 28 January 2026 Activités de groupe" [ref=e97] [cursor=pointer]:
+            - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/actualites/4
+            - generic [ref=e98]:
+              - img "Activités de groupe" [ref=e99]
+              - generic [ref=e101]: Animation
+            - generic [ref=e102]:
+              - paragraph [ref=e103]: 28 January 2026
+              - heading "Activités de groupe" [level=3] [ref=e104]
+      - img
+      - img
+  - contentinfo [ref=e105]:
+    - generic [ref=e106]:
+      - generic [ref=e107]:
+        - generic [ref=e108]:
+          - generic [ref=e109]:
+            - img "Logo VICTORIA-KOA" [ref=e110]
+            - generic [ref=e111]:
+              - heading "VICTORIA-KOA" [level=3] [ref=e112]
+              - paragraph [ref=e113]: Centre Maternel & Primaire
+          - paragraph [ref=e114]: École maternelle et primaire à Angré 9ème Tranche, Abidjan. Un cadre chaleureux où chaque enfant s'épanouit dans la joie et l'apprentissage.
+          - link "Page Facebook VICTORIA-KOA" [ref=e115] [cursor=pointer]:
+            - /url: https://www.facebook.com/CM.VICTORIA.KOA/
+            - img [ref=e116]
+            - text: Suivez-nous
+        - generic [ref=e118]:
+          - heading "Navigation" [level=4] [ref=e119]
+          - list [ref=e120]:
+            - listitem [ref=e121]:
+              - link "Accueil" [ref=e122] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php
+                - text: Accueil
+            - listitem [ref=e124]:
+              - link "À propos" [ref=e125] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/a-propos
+                - text: À propos
+            - listitem [ref=e127]:
+              - link "Les classes" [ref=e128] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/les-classes
+                - text: Les classes
+            - listitem [ref=e130]:
+              - link "Inscription" [ref=e131] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/inscription
+                - text: Inscription
+            - listitem [ref=e133]:
+              - link "Galeries" [ref=e134] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/galleries
+                - text: Galeries
+            - listitem [ref=e136]:
+              - link "Contact" [ref=e137] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/contact
+                - text: Contact
+        - generic [ref=e139]:
+          - heading "Nous contacter" [level=4] [ref=e140]
+          - list [ref=e141]:
+            - listitem [ref=e142]:
+              - link "(+225) 07 67 48 55 94" [ref=e143] [cursor=pointer]:
+                - /url: tel:+2250767485594
+                - img [ref=e144]
+                - text: (+225) 07 67 48 55 94
+            - listitem [ref=e146]:
+              - link "(+225) 01 43 23 84 82" [ref=e147] [cursor=pointer]:
+                - /url: tel:+2250143238482
+                - img [ref=e148]
+                - text: (+225) 01 43 23 84 82
+            - listitem [ref=e150]:
+              - link "direction@gsvictoriakoa.ci" [ref=e151] [cursor=pointer]:
+                - /url: mailto:direction@gsvictoriakoa.ci
+                - img [ref=e152]
+                - text: direction@gsvictoriakoa.ci
+            - listitem [ref=e154]:
+              - generic [ref=e155]:
+                - img [ref=e156]
+                - generic [ref=e159]: Angré 9ème Tranche CNPS en haut, face Pâtisserie MARY'S, Abidjan
+      - generic [ref=e160]:
+        - paragraph [ref=e161]: © 2026 — Groupe Scolaire VICTORIA-KOA. Tous droits réservés.
+        - paragraph [ref=e162]: Angré 9ème Tranche, Abidjan, Côte d'Ivoire
+  - link "Nous appeler au (+225) 07 67 48 55 94" [ref=e163] [cursor=pointer]:
+    - /url: tel:+2250767485594
+    - img [ref=e164]
+  - button "Retour en haut de page":
+    - img

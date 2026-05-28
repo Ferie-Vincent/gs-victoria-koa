@@ -1,0 +1,29 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - img "Logo" [ref=e5]
+    - heading "GS Victoria-Koa" [level=1] [ref=e6]
+    - paragraph [ref=e7]: Configuration initiale de la plateforme
+  - generic [ref=e8]:
+    - generic [ref=e17]:
+      - heading "Créer le compte administrateur" [level=2] [ref=e18]
+      - paragraph [ref=e19]: Cette page est accessible une seule fois. Elle disparaît dès qu'un compte est créé.
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - generic [ref=e22]: Nom complet
+        - textbox "Direction" [ref=e23]
+      - generic [ref=e24]:
+        - generic [ref=e25]: Adresse email
+        - textbox "direction@gsvictoriakoa.ci" [ref=e26]
+      - generic [ref=e27]:
+        - generic [ref=e28]: Mot de passe (min. 8 caractères)
+        - textbox "••••••••••" [ref=e29]
+      - generic [ref=e30]:
+        - generic [ref=e31]: Confirmer le mot de passe
+        - textbox "••••••••••" [ref=e32]
+      - generic [ref=e33]:
+        - generic [ref=e34]: 
+        - paragraph [ref=e35]: Notez bien vos identifiants — il n'y a pas de récupération de mot de passe automatique sur cet hébergement.
+      - button " Créer le compte et accéder à l'administration" [ref=e36] [cursor=pointer]:
+        - generic [ref=e37]: 
+        - text: Créer le compte et accéder à l'administration
+  - paragraph [ref=e38]: Cette page se désactive automatiquement après la création du premier compte.

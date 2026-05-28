@@ -1,0 +1,205 @@
+- generic [active] [ref=e1]:
+  - status "Chargement en cours" [ref=e2]:
+    - img "GS Victoria-Koa" [ref=e6]
+    - paragraph [ref=e7]: GS Victoria-Koa
+  - navigation "Navigation principale" [ref=e12]:
+    - generic [ref=e14]:
+      - link "Accueil VICTORIA-KOA" [ref=e15] [cursor=pointer]:
+        - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php
+        - img "Logo GS VICTORIA-KOA" [ref=e16]
+        - generic [ref=e17]:
+          - text: VICTORIA-KOA
+          - paragraph [ref=e18]: Centre Maternel & Primaire
+      - generic [ref=e19]:
+        - link "Accueil" [ref=e20] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php
+        - generic [ref=e21]:
+          - button "Vie Scolaire" [ref=e22] [cursor=pointer]:
+            - text: Vie Scolaire
+            - img [ref=e23]
+          - text:    
+        - link "Inscription" [ref=e26] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/inscription
+        - link "Galeries" [ref=e27] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/galleries
+        - link "Actualités" [ref=e28] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/actualites
+        - link "À Propos" [ref=e29] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/a-propos
+        - link "Contact" [ref=e30] [cursor=pointer]:
+          - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/contact
+          - img [ref=e31]
+          - text: Contact
+    - text:          
+  - main [ref=e33]:
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - heading "Fournitures Scolaires" [level=1] [ref=e36]
+        - navigation "Fil d'Ariane" [ref=e37]:
+          - list [ref=e38]:
+            - listitem [ref=e39]:
+              - link "Accueil" [ref=e40] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php
+            - listitem [ref=e41]:
+              - img [ref=e42]
+            - listitem [ref=e44]: Fournitures Scolaires
+      - img [ref=e46]
+    - generic [ref=e48]:
+      - generic [ref=e49]:
+        - generic [ref=e51]:
+          - heading "Liste des fournitures scolaires 2025-2026" [level=2] [ref=e52]
+          - paragraph [ref=e53]: Téléchargez la liste de fournitures de votre classe
+        - generic [ref=e58]:
+          - generic [ref=e60]:
+            - generic [ref=e61]: Maternelle
+            - generic [ref=e63]: 
+            - heading "TPS" [level=3] [ref=e64]
+            - paragraph [ref=e65]: Toute Petite Section
+            - link " Télécharger" [ref=e66] [cursor=pointer]:
+              - /url: /documents/fournitures/TPS-2025-2026.pdf
+              - generic [ref=e67]: 
+              - text: Télécharger
+          - generic [ref=e69]:
+            - generic [ref=e70]: Maternelle
+            - generic [ref=e72]: 
+            - heading "PS" [level=3] [ref=e73]
+            - paragraph [ref=e74]: Petite Section
+            - link " Télécharger" [ref=e75] [cursor=pointer]:
+              - /url: /documents/fournitures/PS-2025-2026.pdf
+              - generic [ref=e76]: 
+              - text: Télécharger
+          - generic [ref=e78]:
+            - generic [ref=e79]: Maternelle
+            - generic [ref=e81]: 
+            - heading "MS" [level=3] [ref=e82]
+            - paragraph [ref=e83]: Moyenne Section
+            - link " Télécharger" [ref=e84] [cursor=pointer]:
+              - /url: /documents/fournitures/MS-2025-2026.pdf
+              - generic [ref=e85]: 
+              - text: Télécharger
+          - generic [ref=e87]:
+            - generic [ref=e88]: Maternelle
+            - generic [ref=e90]: 
+            - heading "GS" [level=3] [ref=e91]
+            - paragraph [ref=e92]: Grande Section
+            - link " Télécharger" [ref=e93] [cursor=pointer]:
+              - /url: /documents/fournitures/GS-2025-2026.pdf
+              - generic [ref=e94]: 
+              - text: Télécharger
+          - generic [ref=e96]:
+            - generic [ref=e97]: Primaire
+            - generic [ref=e99]: 
+            - heading "CP" [level=3] [ref=e100]
+            - paragraph [ref=e101]: Cours Préparatoire (CP1 & CP2)
+            - link " Télécharger" [ref=e102] [cursor=pointer]:
+              - /url: /documents/fournitures/CP-2025-2026.pdf
+              - generic [ref=e103]: 
+              - text: Télécharger
+          - generic [ref=e105]:
+            - generic [ref=e106]: Primaire
+            - generic [ref=e108]: 
+            - heading "CE1" [level=3] [ref=e109]
+            - paragraph [ref=e110]: Cours Élémentaire 1ère année
+            - link " Télécharger" [ref=e111] [cursor=pointer]:
+              - /url: /documents/fournitures/CE1-2025-2026.pdf
+              - generic [ref=e112]: 
+              - text: Télécharger
+          - generic [ref=e114]:
+            - generic [ref=e115]: Primaire
+            - generic [ref=e117]: 
+            - heading "CE2" [level=3] [ref=e118]
+            - paragraph [ref=e119]: Cours Élémentaire 2ème année
+            - link " Télécharger" [ref=e120] [cursor=pointer]:
+              - /url: /documents/fournitures/CE2-2025-2026.pdf
+              - generic [ref=e121]: 
+              - text: Télécharger
+          - generic [ref=e123]:
+            - generic [ref=e124]: Primaire
+            - generic [ref=e126]: 
+            - heading "CM1" [level=3] [ref=e127]
+            - paragraph [ref=e128]: Cours Moyen 1ère année
+            - link " Télécharger" [ref=e129] [cursor=pointer]:
+              - /url: /documents/fournitures/CM1-2025-2026.pdf
+              - generic [ref=e130]: 
+              - text: Télécharger
+          - generic [ref=e132]:
+            - generic [ref=e133]: Primaire
+            - generic [ref=e135]: 
+            - heading "CM2" [level=3] [ref=e136]
+            - paragraph [ref=e137]: Cours Moyen 2ème année
+            - link " Télécharger" [ref=e138] [cursor=pointer]:
+              - /url: /documents/fournitures/CM2-2025-2026.pdf
+              - generic [ref=e139]: 
+              - text: Télécharger
+      - img
+  - contentinfo [ref=e140]:
+    - generic [ref=e141]:
+      - generic [ref=e142]:
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - img "Logo VICTORIA-KOA" [ref=e145]
+            - generic [ref=e146]:
+              - heading "VICTORIA-KOA" [level=3] [ref=e147]
+              - paragraph [ref=e148]: Centre Maternel & Primaire
+          - paragraph [ref=e149]: École maternelle et primaire à Angré 9ème Tranche, Abidjan. Un cadre chaleureux où chaque enfant s'épanouit dans la joie et l'apprentissage.
+          - link "Page Facebook VICTORIA-KOA" [ref=e150] [cursor=pointer]:
+            - /url: https://www.facebook.com/CM.VICTORIA.KOA/
+            - img [ref=e151]
+            - text: Suivez-nous
+        - generic [ref=e153]:
+          - heading "Navigation" [level=4] [ref=e154]
+          - list [ref=e155]:
+            - listitem [ref=e156]:
+              - link "Accueil" [ref=e157] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php
+                - text: Accueil
+            - listitem [ref=e159]:
+              - link "À propos" [ref=e160] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/a-propos
+                - text: À propos
+            - listitem [ref=e162]:
+              - link "Les classes" [ref=e163] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/les-classes
+                - text: Les classes
+            - listitem [ref=e165]:
+              - link "Inscription" [ref=e166] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/inscription
+                - text: Inscription
+            - listitem [ref=e168]:
+              - link "Galeries" [ref=e169] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/galleries
+                - text: Galeries
+            - listitem [ref=e171]:
+              - link "Contact" [ref=e172] [cursor=pointer]:
+                - /url: http://localhost:8888/claude-projet/gs-victoria-koa/public/index.php/contact
+                - text: Contact
+        - generic [ref=e174]:
+          - heading "Nous contacter" [level=4] [ref=e175]
+          - list [ref=e176]:
+            - listitem [ref=e177]:
+              - link "(+225) 07 67 48 55 94" [ref=e178] [cursor=pointer]:
+                - /url: tel:+2250767485594
+                - img [ref=e179]
+                - text: (+225) 07 67 48 55 94
+            - listitem [ref=e181]:
+              - link "(+225) 01 43 23 84 82" [ref=e182] [cursor=pointer]:
+                - /url: tel:+2250143238482
+                - img [ref=e183]
+                - text: (+225) 01 43 23 84 82
+            - listitem [ref=e185]:
+              - link "direction@gsvictoriakoa.ci" [ref=e186] [cursor=pointer]:
+                - /url: mailto:direction@gsvictoriakoa.ci
+                - img [ref=e187]
+                - text: direction@gsvictoriakoa.ci
+            - listitem [ref=e189]:
+              - generic [ref=e190]:
+                - img [ref=e191]
+                - generic [ref=e194]: Angré 9ème Tranche CNPS en haut, face Pâtisserie MARY'S, Abidjan
+      - generic [ref=e195]:
+        - paragraph [ref=e196]: © 2026 — Groupe Scolaire VICTORIA-KOA. Tous droits réservés.
+        - paragraph [ref=e197]: Angré 9ème Tranche, Abidjan, Côte d'Ivoire
+  - link "Nous appeler au (+225) 07 67 48 55 94" [ref=e198] [cursor=pointer]:
+    - /url: tel:+2250767485594
+    - img [ref=e199]
+  - button "Retour en haut de page":
+    - img

@@ -1,0 +1,248 @@
+- generic [active] [ref=e1]:
+  - navigation "Navigation principale" [ref=e2]:
+    - generic [ref=e4]:
+      - link "Accueil VICTORIA-KOA" [ref=e5] [cursor=pointer]:
+        - /url: http://localhost:8000
+        - img "Logo GS VICTORIA-KOA" [ref=e6]
+        - generic [ref=e7]:
+          - text: VICTORIA-KOA
+          - paragraph [ref=e8]: Centre Maternel & Primaire
+      - generic [ref=e9]:
+        - link "Accueil" [ref=e10] [cursor=pointer]:
+          - /url: http://localhost:8000
+        - generic [ref=e11]:
+          - button "Vie Scolaire" [ref=e12] [cursor=pointer]:
+            - text: Vie Scolaire
+            - img [ref=e13]
+          - text:    
+        - link "Inscription" [ref=e15] [cursor=pointer]:
+          - /url: http://localhost:8000/inscription
+        - link "Galeries" [ref=e16] [cursor=pointer]:
+          - /url: http://localhost:8000/galleries
+          - text: Galeries
+        - link "Actualités" [ref=e18] [cursor=pointer]:
+          - /url: http://localhost:8000/actualites
+        - link "À Propos" [ref=e19] [cursor=pointer]:
+          - /url: http://localhost:8000/a-propos
+        - link "Contact" [ref=e20] [cursor=pointer]:
+          - /url: http://localhost:8000/contact
+          - img [ref=e21]
+          - text: Contact
+    - text:          
+  - main [ref=e23]:
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - heading "Nos Galeries" [level=1] [ref=e26]
+        - navigation "Fil d'Ariane" [ref=e27]:
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - link "Accueil" [ref=e30] [cursor=pointer]:
+                - /url: http://localhost:8000
+            - listitem [ref=e31]:
+              - img [ref=e32]
+            - listitem [ref=e34]: Nos Galeries
+      - img [ref=e36]
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - generic [ref=e41]:
+          - heading "Galerie Photos" [level=2] [ref=e42]
+          - paragraph [ref=e43]: Découvrez les moments forts de la vie scolaire au Groupe Scolaire VICTORIA-KOA.
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - button "Toutes" [ref=e50] [cursor=pointer]
+            - button "Photos officielles" [ref=e51] [cursor=pointer]
+            - button "Vie scolaire" [ref=e52] [cursor=pointer]
+          - generic [ref=e53]:
+            - link "Photo de l'école GS Victoria-Koa " [ref=e55] [cursor=pointer]:
+              - /url: /images/gallery/20260128_105959-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e56]
+              - generic [ref=e58]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e60] [cursor=pointer]:
+              - /url: /images/gallery/20260128_110148-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e61]
+              - generic [ref=e63]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e65] [cursor=pointer]:
+              - /url: /images/gallery/20260128_110459-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e66]
+              - generic [ref=e68]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e70] [cursor=pointer]:
+              - /url: /images/gallery/20260128_110609-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e71]
+              - generic [ref=e73]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e75] [cursor=pointer]:
+              - /url: /images/gallery/20260128_111447-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e76]
+              - generic [ref=e78]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e80] [cursor=pointer]:
+              - /url: /images/gallery/20260128_112222-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e81]
+              - generic [ref=e83]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e85] [cursor=pointer]:
+              - /url: /images/gallery/20260128_112418-1-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e86]
+              - generic [ref=e88]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e90] [cursor=pointer]:
+              - /url: /images/gallery/20260128_112418-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e91]
+              - generic [ref=e93]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e95] [cursor=pointer]:
+              - /url: /images/gallery/20260128_112704-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e96]
+              - generic [ref=e98]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e100] [cursor=pointer]:
+              - /url: /images/gallery/20260128_112744-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e101]
+              - generic [ref=e103]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e105] [cursor=pointer]:
+              - /url: /images/gallery/20260128_112803-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e106]
+              - generic [ref=e108]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e110] [cursor=pointer]:
+              - /url: /images/gallery/20260128_112923-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e111]
+              - generic [ref=e113]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e115] [cursor=pointer]:
+              - /url: /images/gallery/20260128_113058-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e116]
+              - generic [ref=e118]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e120] [cursor=pointer]:
+              - /url: /images/gallery/20260128_113121-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e121]
+              - generic [ref=e123]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e125] [cursor=pointer]:
+              - /url: /images/gallery/20260128_113135-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e126]
+              - generic [ref=e128]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e130] [cursor=pointer]:
+              - /url: /images/gallery/20260128_113141-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e131]
+              - generic [ref=e133]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e135] [cursor=pointer]:
+              - /url: /images/gallery/20260128_113805-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e136]
+              - generic [ref=e138]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e140] [cursor=pointer]:
+              - /url: /images/gallery/20260128_113927-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e141]
+              - generic [ref=e143]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e145] [cursor=pointer]:
+              - /url: /images/gallery/20260128_114003-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e146]
+              - generic [ref=e148]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e150] [cursor=pointer]:
+              - /url: /images/gallery/20260128_114025-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e151]
+              - generic [ref=e153]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e155] [cursor=pointer]:
+              - /url: /images/gallery/CV5I0157-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e156]
+              - generic [ref=e158]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e160] [cursor=pointer]:
+              - /url: /images/gallery/CV5I0163-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e161]
+              - generic [ref=e163]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e165] [cursor=pointer]:
+              - /url: /images/gallery/CV5I0165-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e166]
+              - generic [ref=e168]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e170] [cursor=pointer]:
+              - /url: /images/gallery/CV5I0176-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e171]
+              - generic [ref=e173]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e175] [cursor=pointer]:
+              - /url: /images/gallery/CV5I0186-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e176]
+              - generic [ref=e178]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e180] [cursor=pointer]:
+              - /url: /images/gallery/CV5I0191-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e181]
+              - generic [ref=e183]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e185] [cursor=pointer]:
+              - /url: /images/gallery/CV5I0194-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e186]
+              - generic [ref=e188]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e190] [cursor=pointer]:
+              - /url: /images/gallery/CV5I0202-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e191]
+              - generic [ref=e193]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e195] [cursor=pointer]:
+              - /url: /images/gallery/CV5I0208-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e196]
+              - generic [ref=e198]: 
+            - link "Photo de l'école GS Victoria-Koa " [ref=e200] [cursor=pointer]:
+              - /url: /images/gallery/CV5I0210-scaled.jpg
+              - img "Photo de l'école GS Victoria-Koa" [ref=e201]
+              - generic [ref=e203]: 
+      - img
+      - img
+  - contentinfo [ref=e204]:
+    - generic [ref=e205]:
+      - generic [ref=e206]:
+        - generic [ref=e207]:
+          - generic [ref=e208]:
+            - img "Logo VICTORIA-KOA" [ref=e209]
+            - generic [ref=e210]:
+              - heading "VICTORIA-KOA" [level=3] [ref=e211]
+              - paragraph [ref=e212]: Centre Maternel & Primaire
+          - paragraph [ref=e213]: École maternelle et primaire à Angré 9ème Tranche, Abidjan. Un cadre chaleureux où chaque enfant s'épanouit dans la joie et l'apprentissage.
+          - link "Page Facebook VICTORIA-KOA" [ref=e214] [cursor=pointer]:
+            - /url: https://facebook.com/CM.VICTORIA.KOA/
+            - img [ref=e215]
+            - text: Suivez-nous
+        - generic [ref=e217]:
+          - heading "Navigation" [level=4] [ref=e218]
+          - list [ref=e219]:
+            - listitem [ref=e220]:
+              - link "Accueil" [ref=e221] [cursor=pointer]:
+                - /url: http://localhost:8000
+                - text: Accueil
+            - listitem [ref=e223]:
+              - link "À propos" [ref=e224] [cursor=pointer]:
+                - /url: http://localhost:8000/a-propos
+                - text: À propos
+            - listitem [ref=e226]:
+              - link "Les classes" [ref=e227] [cursor=pointer]:
+                - /url: http://localhost:8000/les-classes
+                - text: Les classes
+            - listitem [ref=e229]:
+              - link "Inscription" [ref=e230] [cursor=pointer]:
+                - /url: http://localhost:8000/inscription
+                - text: Inscription
+            - listitem [ref=e232]:
+              - link "Galeries" [ref=e233] [cursor=pointer]:
+                - /url: http://localhost:8000/galleries
+                - text: Galeries
+            - listitem [ref=e235]:
+              - link "Contact" [ref=e236] [cursor=pointer]:
+                - /url: http://localhost:8000/contact
+                - text: Contact
+        - generic [ref=e238]:
+          - heading "Nous contacter" [level=4] [ref=e239]
+          - list [ref=e240]:
+            - listitem [ref=e241]:
+              - link "(+225) 07 67 48 55 94" [ref=e242] [cursor=pointer]:
+                - /url: tel:+2250767485594
+                - img [ref=e243]
+                - text: (+225) 07 67 48 55 94
+            - listitem [ref=e245]:
+              - link "(+225) 01 43 23 84 82" [ref=e246] [cursor=pointer]:
+                - /url: tel:+2250143238482
+                - img [ref=e247]
+                - text: (+225) 01 43 23 84 82
+            - listitem [ref=e249]:
+              - link "direction@gsvictoriakoa.ci" [ref=e250] [cursor=pointer]:
+                - /url: mailto:direction@gsvictoriakoa.ci
+                - img [ref=e251]
+                - text: direction@gsvictoriakoa.ci
+            - listitem [ref=e253]:
+              - generic [ref=e254]:
+                - img [ref=e255]
+                - generic [ref=e258]:
+                  - text: Angré 9ème Tranche CNPS en haut,
+                  - text: face Pâtisserie MARY'S, Abidjan
+      - generic [ref=e259]:
+        - paragraph [ref=e260]: © 2026 — Groupe Scolaire VICTORIA-KOA. Tous droits réservés.
+        - paragraph [ref=e261]: Angré 9ème Tranche, Abidjan, Côte d'Ivoire
+  - link "Nous appeler au (+225) 07 67 48 55 94" [ref=e262] [cursor=pointer]:
+    - /url: tel:+2250767485594
+    - img [ref=e263]

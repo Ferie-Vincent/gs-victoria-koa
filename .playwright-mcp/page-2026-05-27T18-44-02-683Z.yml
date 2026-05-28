@@ -1,0 +1,105 @@
+- generic [active] [ref=e1]:
+  - navigation "Navigation principale" [ref=e2]:
+    - generic [ref=e4]:
+      - link "Accueil VICTORIA-KOA" [ref=e5] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000
+        - img "Logo GS VICTORIA-KOA" [ref=e6]
+        - generic [ref=e7]:
+          - text: VICTORIA-KOA
+          - paragraph [ref=e8]: Centre Maternel & Primaire
+      - generic [ref=e9]:
+        - link "Accueil" [ref=e10] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000
+        - button "Vie Scolaire" [ref=e12] [cursor=pointer]:
+          - text: Vie Scolaire
+          - img [ref=e13]
+        - link "Inscription" [ref=e15] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/inscription
+        - link "Galeries" [ref=e16] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/galleries
+        - link "Actualités" [ref=e17] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/actualites
+        - link "À Propos" [ref=e18] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/a-propos
+        - link "Contact" [ref=e19] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/contact
+          - img [ref=e20]
+          - text: Contact
+  - main [ref=e22]:
+    - generic [ref=e24]:
+      - img "Logo VICTORIA-KOA" [ref=e25]
+      - heading "VICTORIA-KOA" [level=1] [ref=e26]
+      - paragraph [ref=e27]: Centre Maternel & Primaire — Angré, Abidjan
+      - link "✍️ S'inscrire maintenant" [ref=e28] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/inscription
+  - contentinfo [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - img "Logo VICTORIA-KOA" [ref=e34]
+            - generic [ref=e35]:
+              - heading "VICTORIA-KOA" [level=3] [ref=e36]
+              - paragraph [ref=e37]: Centre Maternel & Primaire
+          - paragraph [ref=e38]: École maternelle et primaire à Angré 9ème Tranche, Abidjan. Un cadre chaleureux où chaque enfant s'épanouit dans la joie et l'apprentissage.
+          - link "Page Facebook VICTORIA-KOA" [ref=e39] [cursor=pointer]:
+            - /url: https://facebook.com/CM.VICTORIA.KOA/
+            - img [ref=e40]
+            - text: Suivez-nous
+        - generic [ref=e42]:
+          - heading "Navigation" [level=4] [ref=e43]
+          - list [ref=e44]:
+            - listitem [ref=e45]:
+              - link "Accueil" [ref=e46] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000
+                - text: Accueil
+            - listitem [ref=e48]:
+              - link "À propos" [ref=e49] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/a-propos
+                - text: À propos
+            - listitem [ref=e51]:
+              - link "Les classes" [ref=e52] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/les-classes
+                - text: Les classes
+            - listitem [ref=e54]:
+              - link "Inscription" [ref=e55] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/inscription
+                - text: Inscription
+            - listitem [ref=e57]:
+              - link "Galeries" [ref=e58] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/galleries
+                - text: Galeries
+            - listitem [ref=e60]:
+              - link "Contact" [ref=e61] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/contact
+                - text: Contact
+        - generic [ref=e63]:
+          - heading "Nous contacter" [level=4] [ref=e64]
+          - list [ref=e65]:
+            - listitem [ref=e66]:
+              - link "(+225) 07 67 48 55 94" [ref=e67] [cursor=pointer]:
+                - /url: tel:+2250767485594
+                - img [ref=e68]
+                - text: (+225) 07 67 48 55 94
+            - listitem [ref=e70]:
+              - link "(+225) 01 43 23 84 82" [ref=e71] [cursor=pointer]:
+                - /url: tel:+2250143238482
+                - img [ref=e72]
+                - text: (+225) 01 43 23 84 82
+            - listitem [ref=e74]:
+              - link "direction@gsvictoriakoa.ci" [ref=e75] [cursor=pointer]:
+                - /url: mailto:direction@gsvictoriakoa.ci
+                - img [ref=e76]
+                - text: direction@gsvictoriakoa.ci
+            - listitem [ref=e78]:
+              - generic [ref=e79]:
+                - img [ref=e80]
+                - generic [ref=e83]:
+                  - text: Angré 9ème Tranche CNPS en haut,
+                  - text: face Pâtisserie MARY'S, Abidjan
+      - generic [ref=e84]:
+        - paragraph [ref=e85]: © 2026 — Groupe Scolaire VICTORIA-KOA. Tous droits réservés.
+        - paragraph [ref=e86]: Angré 9ème Tranche, Abidjan, Côte d'Ivoire
+  - link "Nous appeler au (+225) 07 67 48 55 94" [ref=e87] [cursor=pointer]:
+    - /url: tel:+2250767485594
+    - img [ref=e88]

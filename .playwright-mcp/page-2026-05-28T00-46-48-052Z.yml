@@ -1,0 +1,506 @@
+- generic [active] [ref=e1]:
+  - complementary [ref=e2]:
+    - generic [ref=e3]:
+      - img "Logo" [ref=e5]
+      - generic [ref=e6]:
+        - paragraph [ref=e7]: Victoria-Koa
+        - paragraph [ref=e8]: Administration
+    - navigation [ref=e9]:
+      - link " Tableau de bord Vue d'ensemble du site" [ref=e10] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin
+        - generic [ref=e12]: 
+        - generic [ref=e13]: Tableau de bord
+        - text: Vue d'ensemble du site
+      - link " Actualités Gérer les articles publiés" [ref=e14] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/actualites
+        - generic [ref=e16]: 
+        - generic [ref=e17]: Actualités
+        - text: Gérer les articles publiés
+      - link " Témoignages Modérer les avis de parents" [ref=e18] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/temoignages
+        - generic [ref=e20]: 
+        - generic [ref=e21]: Témoignages
+        - text: Modérer les avis de parents
+      - link " Messages Messages du formulaire de contact" [ref=e22] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/messages
+        - generic [ref=e24]: 
+        - generic [ref=e25]: Messages
+        - text: Messages du formulaire de contact
+      - link " Utilisateurs Gérer les comptes administrateurs" [ref=e26] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/utilisateurs
+        - generic [ref=e28]: 
+        - generic [ref=e29]: Utilisateurs
+        - text: Gérer les comptes administrateurs
+      - link " Calendrier Gérer les dates de vacances et jours fériés" [ref=e30] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/calendrier
+        - generic [ref=e32]: 
+        - generic [ref=e33]: Calendrier
+        - text: Gérer les dates de vacances et jours fériés
+      - link " Documents PDF Uploader les PDF fournitures, inscriptions…" [ref=e34] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/documents
+        - generic [ref=e36]: 
+        - generic [ref=e37]: Documents PDF
+        - text: Uploader les PDF fournitures, inscriptions…
+      - link " Paramètres Horaires, contacts, année scolaire…" [ref=e38] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/parametres
+        - generic [ref=e40]: 
+        - generic [ref=e41]: Paramètres
+        - text: Horaires, contacts, année scolaire…
+    - generic [ref=e42]:
+      - link " Voir le site public Ouvre le site public dans un nouvel onglet" [ref=e43] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000
+        - generic [ref=e44]: 
+        - text: Voir le site public Ouvre le site public dans un nouvel onglet
+      - button " Déconnexion Fermer la session administrateur" [ref=e46] [cursor=pointer]:
+        - generic [ref=e47]: 
+        - text: Déconnexion Fermer la session administrateur
+  - generic [ref=e48]:
+    - banner [ref=e49]:
+      - generic [ref=e50]:
+        - generic [ref=e51]: GS Victoria-Koa
+        - generic [ref=e52]: /
+        - heading "Calendrier scolaire" [level=1] [ref=e53]
+      - link "D Direction Administrateur Gérer les utilisateurs" [ref=e55] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/admin/utilisateurs
+        - generic [ref=e56]: D
+        - generic [ref=e57]:
+          - paragraph [ref=e58]: Direction
+          - paragraph [ref=e59]: Administrateur
+        - text: Gérer les utilisateurs
+    - main [ref=e60]:
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e63]:
+            - paragraph [ref=e64]: Année scolaire 2025–2026
+            - paragraph [ref=e65]: 19 événement(s) au total
+          - button " Nouvel événement Ajouter une période ou un jour férié" [ref=e66] [cursor=pointer]:
+            - generic [ref=e67]: 
+            - text: Nouvel événement Ajouter une période ou un jour férié
+        - generic [ref=e70]:
+          - paragraph [ref=e72]:
+            - text: "2025"
+            - text: "2026"
+          - button "SEPT" [ref=e73] [cursor=pointer]:
+            - generic [ref=e74]: SEPT
+          - button "OCT" [ref=e107] [cursor=pointer]:
+            - generic [ref=e108]: OCT
+          - button "NOV" [ref=e144] [cursor=pointer]:
+            - generic [ref=e145]: NOV
+          - button "DÉC" [ref=e183] [cursor=pointer]:
+            - generic [ref=e184]: DÉC
+          - button "JANV" [ref=e218] [cursor=pointer]:
+            - generic [ref=e219]: JANV
+          - button "FÉVR" [ref=e256] [cursor=pointer]:
+            - generic [ref=e257]: FÉVR
+          - button "MARS" [ref=e294] [cursor=pointer]:
+            - generic [ref=e295]: MARS
+          - button "AVR" [ref=e335] [cursor=pointer]:
+            - generic [ref=e336]: AVR
+          - button "MAI" [ref=e371] [cursor=pointer]:
+            - generic [ref=e372]: MAI
+          - button "JUIN" [ref=e410] [cursor=pointer]:
+            - generic [ref=e411]: JUIN
+          - button "JUIL" [ref=e444] [cursor=pointer]:
+            - generic [ref=e445]: JUIL
+          - button "AOÛT" [ref=e481] [cursor=pointer]:
+            - generic [ref=e482]: AOÛT
+        - generic [ref=e521]:
+          - generic [ref=e523]:
+            - generic [ref=e524]:
+              - button " Mois précédent" [ref=e525] [cursor=pointer]:
+                - generic [ref=e526]: 
+                - text: Mois précédent
+              - heading "mai 2026" [level=3] [ref=e527]
+              - button " Mois suivant" [ref=e528] [cursor=pointer]:
+                - generic [ref=e529]: 
+                - text: Mois suivant
+            - generic [ref=e530]:
+              - generic [ref=e531]: L
+              - generic [ref=e532]: M
+              - generic [ref=e533]: M
+              - generic [ref=e534]: J
+              - generic [ref=e535]: V
+              - generic [ref=e536]: S
+              - generic [ref=e537]: D
+            - generic [ref=e538]:
+              - generic "VACANCES D'AVRIL · Fête du Travail" [ref=e543]:
+                - generic [ref=e545]: "1"
+              - generic "VACANCES D'AVRIL" [ref=e546]:
+                - generic [ref=e548]: "2"
+              - generic "VACANCES D'AVRIL" [ref=e549]:
+                - generic [ref=e550]: "3"
+              - generic "VACANCES D'AVRIL" [ref=e551]:
+                - generic [ref=e552]: "4"
+              - generic "VACANCES D'AVRIL" [ref=e553]:
+                - generic [ref=e555]: "5"
+              - generic "VACANCES D'AVRIL" [ref=e556]:
+                - generic [ref=e558]: "6"
+              - generic "VACANCES D'AVRIL" [ref=e559]:
+                - generic [ref=e561]: "7"
+              - generic "VACANCES D'AVRIL" [ref=e562]:
+                - generic [ref=e564]: "8"
+              - generic "VACANCES D'AVRIL" [ref=e565]:
+                - generic [ref=e567]: "9"
+              - generic "VACANCES D'AVRIL" [ref=e568]:
+                - generic [ref=e569]: "10"
+              - generic "CLASSES" [ref=e570]:
+                - generic [ref=e571]: "11"
+              - generic "CLASSES" [ref=e572]:
+                - generic [ref=e574]: "12"
+              - generic "CLASSES" [ref=e575]:
+                - generic [ref=e577]: "13"
+              - generic "CLASSES · Ascension" [ref=e578]:
+                - generic [ref=e580]: "14"
+              - generic "CLASSES" [ref=e581]:
+                - generic [ref=e583]: "15"
+              - generic "CLASSES" [ref=e584]:
+                - generic [ref=e586]: "16"
+              - generic "CLASSES" [ref=e587]:
+                - generic [ref=e588]: "17"
+              - generic "CLASSES" [ref=e589]:
+                - generic [ref=e590]: "18"
+              - generic "CLASSES" [ref=e591]:
+                - generic [ref=e593]: "19"
+              - generic "CLASSES" [ref=e594]:
+                - generic [ref=e596]: "20"
+              - generic "CLASSES" [ref=e597]:
+                - generic [ref=e599]: "21"
+              - generic "CLASSES" [ref=e600]:
+                - generic [ref=e602]: "22"
+              - generic "CLASSES" [ref=e603]:
+                - generic [ref=e605]: "23"
+              - generic "CLASSES" [ref=e606]:
+                - generic [ref=e607]: "24"
+              - generic "CLASSES · Lundi de Pentecôte" [ref=e608]:
+                - generic [ref=e609]: "25"
+              - generic "CLASSES" [ref=e610]:
+                - generic [ref=e612]: "26"
+              - generic "CLASSES" [ref=e613]:
+                - generic [ref=e615]: "27"
+              - generic "CLASSES" [ref=e616]:
+                - generic [ref=e618]: "28"
+              - generic "CLASSES" [ref=e619]:
+                - generic [ref=e621]: "29"
+              - generic "CLASSES" [ref=e622]:
+                - generic [ref=e624]: "30"
+              - generic "CLASSES" [ref=e625]:
+                - generic [ref=e626]: "31"
+            - generic [ref=e627]:
+              - generic [ref=e630]: Cours
+              - generic [ref=e633]: Vacances
+              - generic [ref=e636]: Rentrée / Sortie
+              - generic [ref=e639]: Jour férié
+          - generic [ref=e640]:
+            - generic [ref=e641]:
+              - generic [ref=e643]: 
+              - generic [ref=e644]: Tous les événements
+              - generic [ref=e645]: "19"
+              - generic [ref=e646]:
+                - generic [ref=e647]: Cours
+                - generic [ref=e648]: Vacances
+                - generic [ref=e649]: Rentrée
+                - generic [ref=e650]: Férié
+              - button " Ajouter" [ref=e651] [cursor=pointer]:
+                - generic [ref=e652]: 
+                - text: Ajouter
+            - generic [ref=e653]:
+              - generic [ref=e654]: Rentrée
+              - generic [ref=e656]: 
+              - paragraph [ref=e657]: RENTRÉE DES CLASSES
+              - generic [ref=e658]: 01/09/2025
+              - generic [ref=e659]: "10"
+              - generic [ref=e660]:
+                - link " Modifier" [ref=e661] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/1/edit
+                  - generic [ref=e662]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e664] [cursor=pointer]:
+                  - generic [ref=e665]: 
+                  - text: Supprimer
+            - generic [ref=e666]:
+              - generic [ref=e667]: Cours
+              - generic [ref=e669]: 
+              - paragraph [ref=e670]: CLASSES
+              - generic [ref=e671]:
+                - text: 01/09/2025 → 17/10/2025
+                - generic [ref=e672]: 7 sem.
+              - generic [ref=e673]: "20"
+              - generic [ref=e674]:
+                - link " Modifier" [ref=e675] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/2/edit
+                  - generic [ref=e676]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e678] [cursor=pointer]:
+                  - generic [ref=e679]: 
+                  - text: Supprimer
+            - generic [ref=e680]:
+              - generic [ref=e681]: Vacances
+              - generic [ref=e683]: 
+              - paragraph [ref=e684]: VACANCES DE TOUSSAINT
+              - generic [ref=e685]:
+                - text: 18/10/2025 → 02/11/2025
+                - generic [ref=e686]: 16 j.
+              - generic [ref=e687]: "30"
+              - generic [ref=e688]:
+                - link " Modifier" [ref=e689] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/3/edit
+                  - generic [ref=e690]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e692] [cursor=pointer]:
+                  - generic [ref=e693]: 
+                  - text: Supprimer
+            - generic [ref=e694]:
+              - generic [ref=e695]: Cours
+              - generic [ref=e697]: 
+              - paragraph [ref=e698]: CLASSES
+              - generic [ref=e699]:
+                - text: 03/11/2025 → 19/12/2025
+                - generic [ref=e700]: 7 sem.
+              - generic [ref=e701]: "40"
+              - generic [ref=e702]:
+                - link " Modifier" [ref=e703] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/4/edit
+                  - generic [ref=e704]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e706] [cursor=pointer]:
+                  - generic [ref=e707]: 
+                  - text: Supprimer
+            - generic [ref=e708]:
+              - generic [ref=e709]: Vacances
+              - generic [ref=e711]: 
+              - paragraph [ref=e712]: VACANCES DE NOËL
+              - generic [ref=e713]:
+                - text: 20/12/2025 → 04/01/2026
+                - generic [ref=e714]: 16 j.
+              - generic [ref=e715]: "50"
+              - generic [ref=e716]:
+                - link " Modifier" [ref=e717] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/5/edit
+                  - generic [ref=e718]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e720] [cursor=pointer]:
+                  - generic [ref=e721]: 
+                  - text: Supprimer
+            - generic [ref=e722]:
+              - generic [ref=e723]: Cours
+              - generic [ref=e725]: 
+              - paragraph [ref=e726]: CLASSES
+              - generic [ref=e727]:
+                - text: 05/01/2026 → 20/02/2026
+                - generic [ref=e728]: 7 sem.
+              - generic [ref=e729]: "60"
+              - generic [ref=e730]:
+                - link " Modifier" [ref=e731] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/6/edit
+                  - generic [ref=e732]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e734] [cursor=pointer]:
+                  - generic [ref=e735]: 
+                  - text: Supprimer
+            - generic [ref=e736]:
+              - generic [ref=e737]: Vacances
+              - generic [ref=e739]: 
+              - paragraph [ref=e740]: VACANCES DE FÉVRIER
+              - generic [ref=e741]:
+                - text: 21/02/2026 → 08/03/2026
+                - generic [ref=e742]: 16 j.
+              - generic [ref=e743]: "70"
+              - generic [ref=e744]:
+                - link " Modifier" [ref=e745] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/7/edit
+                  - generic [ref=e746]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e748] [cursor=pointer]:
+                  - generic [ref=e749]: 
+                  - text: Supprimer
+            - generic [ref=e750]:
+              - generic [ref=e751]: Cours
+              - generic [ref=e753]: 
+              - paragraph [ref=e754]: CLASSES
+              - generic [ref=e755]:
+                - text: 09/03/2026 → 24/04/2026
+                - generic [ref=e756]: 7 sem.
+              - generic [ref=e757]: "80"
+              - generic [ref=e758]:
+                - link " Modifier" [ref=e759] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/8/edit
+                  - generic [ref=e760]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e762] [cursor=pointer]:
+                  - generic [ref=e763]: 
+                  - text: Supprimer
+            - generic [ref=e764]:
+              - generic [ref=e765]: Vacances
+              - generic [ref=e767]: 
+              - paragraph [ref=e768]: VACANCES D'AVRIL
+              - generic [ref=e769]:
+                - text: 25/04/2026 → 10/05/2026
+                - generic [ref=e770]: 16 j.
+              - generic [ref=e771]: "90"
+              - generic [ref=e772]:
+                - link " Modifier" [ref=e773] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/9/edit
+                  - generic [ref=e774]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e776] [cursor=pointer]:
+                  - generic [ref=e777]: 
+                  - text: Supprimer
+            - generic [ref=e778]:
+              - generic [ref=e779]: Cours
+              - generic [ref=e781]: 
+              - paragraph [ref=e782]: CLASSES
+              - generic [ref=e783]:
+                - text: 11/05/2026 → 03/07/2026
+                - generic [ref=e784]: 7 sem.
+              - generic [ref=e785]: "100"
+              - generic [ref=e786]:
+                - link " Modifier" [ref=e787] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/10/edit
+                  - generic [ref=e788]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e790] [cursor=pointer]:
+                  - generic [ref=e791]: 
+                  - text: Supprimer
+            - generic [ref=e792]:
+              - generic [ref=e793]: Rentrée
+              - generic [ref=e795]: 
+              - paragraph [ref=e796]: SORTIE DES CLASSES
+              - generic [ref=e797]: 03/07/2026
+              - generic [ref=e798]: "110"
+              - generic [ref=e799]:
+                - link " Modifier" [ref=e800] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/11/edit
+                  - generic [ref=e801]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e803] [cursor=pointer]:
+                  - generic [ref=e804]: 
+                  - text: Supprimer
+            - generic [ref=e805]:
+              - generic [ref=e806]: Férié
+              - generic [ref=e808]: 
+              - paragraph [ref=e809]: Toussaint
+              - generic [ref=e810]:
+                - text: 01/11/2025
+                - generic [ref=e811]: 1 j.
+              - generic [ref=e812]: "200"
+              - generic [ref=e813]:
+                - link " Modifier" [ref=e814] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/12/edit
+                  - generic [ref=e815]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e817] [cursor=pointer]:
+                  - generic [ref=e818]: 
+                  - text: Supprimer
+            - generic [ref=e819]:
+              - generic [ref=e820]: Férié
+              - generic [ref=e822]: 
+              - paragraph [ref=e823]: Fête de la paix
+              - generic [ref=e824]:
+                - text: 15/11/2025
+                - generic [ref=e825]: 1 j.
+              - generic [ref=e826]: "210"
+              - generic [ref=e827]:
+                - link " Modifier" [ref=e828] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/13/edit
+                  - generic [ref=e829]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e831] [cursor=pointer]:
+                  - generic [ref=e832]: 
+                  - text: Supprimer
+            - generic [ref=e833]:
+              - generic [ref=e834]: Férié
+              - generic [ref=e836]: 
+              - paragraph [ref=e837]: Noël
+              - generic [ref=e838]:
+                - text: 25/12/2025
+                - generic [ref=e839]: 1 j.
+              - generic [ref=e840]: "220"
+              - generic [ref=e841]:
+                - link " Modifier" [ref=e842] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/14/edit
+                  - generic [ref=e843]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e845] [cursor=pointer]:
+                  - generic [ref=e846]: 
+                  - text: Supprimer
+            - generic [ref=e847]:
+              - generic [ref=e848]: Férié
+              - generic [ref=e850]: 
+              - paragraph [ref=e851]: Jour de l'An
+              - generic [ref=e852]:
+                - text: 01/01/2026
+                - generic [ref=e853]: 1 j.
+              - generic [ref=e854]: "230"
+              - generic [ref=e855]:
+                - link " Modifier" [ref=e856] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/15/edit
+                  - generic [ref=e857]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e859] [cursor=pointer]:
+                  - generic [ref=e860]: 
+                  - text: Supprimer
+            - generic [ref=e861]:
+              - generic [ref=e862]: Férié
+              - generic [ref=e864]: 
+              - paragraph [ref=e865]: Lundi de Pâques
+              - generic [ref=e866]:
+                - text: 06/04/2026
+                - generic [ref=e867]: 1 j.
+              - generic [ref=e868]: "240"
+              - generic [ref=e869]:
+                - link " Modifier" [ref=e870] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/16/edit
+                  - generic [ref=e871]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e873] [cursor=pointer]:
+                  - generic [ref=e874]: 
+                  - text: Supprimer
+            - generic [ref=e875]:
+              - generic [ref=e876]: Férié
+              - generic [ref=e878]: 
+              - paragraph [ref=e879]: Fête du Travail
+              - generic [ref=e880]:
+                - text: 01/05/2026
+                - generic [ref=e881]: 1 j.
+              - generic [ref=e882]: "250"
+              - generic [ref=e883]:
+                - link " Modifier" [ref=e884] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/17/edit
+                  - generic [ref=e885]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e887] [cursor=pointer]:
+                  - generic [ref=e888]: 
+                  - text: Supprimer
+            - generic [ref=e889]:
+              - generic [ref=e890]: Férié
+              - generic [ref=e892]: 
+              - paragraph [ref=e893]: Ascension
+              - generic [ref=e894]:
+                - text: 14/05/2026
+                - generic [ref=e895]: 1 j.
+              - generic [ref=e896]: "260"
+              - generic [ref=e897]:
+                - link " Modifier" [ref=e898] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/18/edit
+                  - generic [ref=e899]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e901] [cursor=pointer]:
+                  - generic [ref=e902]: 
+                  - text: Supprimer
+            - generic [ref=e903]:
+              - generic [ref=e904]: Férié
+              - generic [ref=e906]: 
+              - paragraph [ref=e907]: Lundi de Pentecôte
+              - generic [ref=e908]:
+                - text: 25/05/2026
+                - generic [ref=e909]: 1 j.
+              - generic [ref=e910]: "270"
+              - generic [ref=e911]:
+                - link " Modifier" [ref=e912] [cursor=pointer]:
+                  - /url: http://127.0.0.1:8000/admin/calendrier/19/edit
+                  - generic [ref=e913]: 
+                  - text: Modifier
+                - button " Supprimer" [ref=e915] [cursor=pointer]:
+                  - generic [ref=e916]: 
+                  - text: Supprimer
+        - text:  Fermer     

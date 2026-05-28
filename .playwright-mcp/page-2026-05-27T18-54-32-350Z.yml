@@ -1,0 +1,451 @@
+- generic [active] [ref=e1]:
+  - navigation "Navigation principale" [ref=e2]:
+    - generic [ref=e4]:
+      - link "Accueil VICTORIA-KOA" [ref=e5] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000
+        - img "Logo GS VICTORIA-KOA" [ref=e6]
+        - generic [ref=e7]:
+          - text: VICTORIA-KOA
+          - paragraph [ref=e8]: Centre Maternel & Primaire
+      - generic [ref=e9]:
+        - link "Accueil" [ref=e10] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000
+        - button "Vie Scolaire" [ref=e12] [cursor=pointer]:
+          - text: Vie Scolaire
+          - img [ref=e13]
+        - link "Inscription" [ref=e15] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/inscription
+        - link "Galeries" [ref=e16] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/galleries
+        - link "Actualités" [ref=e17] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/actualites
+        - link "À Propos" [ref=e18] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/a-propos
+        - link "Contact" [ref=e19] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/contact
+          - img [ref=e20]
+          - text: Contact
+  - main [ref=e22]:
+    - generic [ref=e23]:
+      - img [ref=e26]
+      - img [ref=e31]
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e38]: ⭐ École de confiance depuis 2014
+          - heading "Bienvenue à VICTORIA-KOA" [level=1] [ref=e39]:
+            - text: Bienvenue à
+            - text: VICTORIA-KOA
+          - paragraph [ref=e40]: Nous avons un programme unique qui aide chaque enfant à s'adapter rapidement et à se sentir chez lui.
+          - paragraph [ref=e41]: Nous aidons également chaque enfant à trouver sa propre voie.
+          - generic [ref=e42]:
+            - link "En savoir plus" [ref=e43] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/a-propos
+              - text: En savoir plus
+              - img [ref=e44]
+            - link "Nous contacter" [ref=e46] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/contact
+        - generic [ref=e48]:
+          - img "Logo GS VICTORIA-KOA" [ref=e50]
+          - generic [ref=e51]: 📚 TPS → CM2
+          - generic [ref=e52]: 🏫 Angré, Abidjan
+      - img [ref=e54]
+      - img [ref=e57]
+    - generic [ref=e61]:
+      - img "GS VICTORIA-KOA" [ref=e65]
+      - generic [ref=e68]:
+        - heading "Mot de Bienvenue sur le site" [level=2] [ref=e70]
+        - generic [ref=e75]:
+          - paragraph [ref=e76]:
+            - generic [ref=e77]: ⭐
+            - generic [ref=e78]: Bienvenue dans notre école victoria-koa où l'esprit d'équipe et l'esprit famille est au cœur de tout ce que nous faisons.
+          - paragraph [ref=e79]:
+            - generic [ref=e80]: 💛
+            - generic [ref=e81]: Ici les enfants grandissent ensemble, apprennent des uns des autres et tissent des liens forts qui durent toute une vie.
+          - paragraph [ref=e82]:
+            - generic [ref=e83]: 💜
+            - generic [ref=e84]: Nous sommes fiers de notre équipe enseignante, passionnée, dévouée et de nos élèves motivés qui travaillent ensemble pour atteindre l'excellence.
+          - paragraph [ref=e85]:
+            - generic [ref=e86]: 🌿
+            - generic [ref=e87]: Notre école est un endroit où nous nous efforçons de créer un environnement d'apprentissage stimulant et accueillant, où chaque élève unique et valorisé peut grandir et s'épanouir.
+          - paragraph [ref=e88]:
+            - generic [ref=e89]: 💫
+            - generic [ref=e90]: Nous sommes à votre écoute et sommes impatients de partager cette aventure éducative avec vous !
+          - paragraph [ref=e91]:
+            - generic [ref=e92]: 📖
+            - generic [ref=e93]: Bonne visite sur ce site web conçu pour vous donner un aperçu de notre vie scolaire. Vous y trouverez nos convictions éducatives ainsi que nos activités et événements.
+    - generic [ref=e95]:
+      - generic [ref=e97]:
+        - heading "Nos Valeurs" [level=2] [ref=e98]
+        - paragraph [ref=e99]: Les principes qui guident chaque jour notre action éducative à VICTORIA-KOA.
+      - generic [ref=e104]:
+        - generic [ref=e105]:
+          - generic [ref=e106]: ⚡
+          - heading "Le Dynamisme" [level=3] [ref=e107]
+          - paragraph [ref=e108]: Un mot avec beaucoup de sens, le dynamisme permet aux élèves de surmonter toute épreuve, d'aller au-delà de leurs limites et de donner le meilleur d'eux-mêmes chaque jour.
+        - generic [ref=e109]:
+          - generic [ref=e110]: 🎯
+          - heading "La Persévérance" [level=3] [ref=e111]
+          - paragraph [ref=e112]: Une qualité essentielle qui consiste à persister dans ses efforts et à braver tout obstacle pour atteindre ses objectifs, quelles que soient les difficultés rencontrées.
+        - generic [ref=e113]:
+          - generic [ref=e114]: 🤝
+          - heading "L'Esprit d'Équipe" [level=3] [ref=e115]
+          - paragraph [ref=e116]: À Victoria-Koa, l'esprit d'équipe est une valeur fondamentale que nous inculquons aux élèves afin de les préparer à la vie collective et professionnelle.
+    - generic [ref=e119]:
+      - generic [ref=e121]:
+        - heading "Nos Activités" [level=2] [ref=e122]
+        - paragraph [ref=e123]: Victoria-Koa propose à vos enfants une variété d'activités périscolaires pour enrichir leur expérience. De la découverte artistique au sport, nos programmes favorisent l'épanouissement de chaque enfant.
+      - generic [ref=e128]:
+        - generic [ref=e129]:
+          - generic [ref=e130]: 💃
+          - text: Danse
+        - generic [ref=e131]:
+          - generic [ref=e132]: 🥋
+          - text: Karaté
+        - generic [ref=e133]:
+          - generic [ref=e134]: 🎹
+          - text: Piano
+        - generic [ref=e135]:
+          - generic [ref=e136]: 🏊
+          - text: Natation
+        - generic [ref=e137]:
+          - generic [ref=e138]: 🎭
+          - text: Théâtre
+      - generic [ref=e139]:
+        - paragraph [ref=e140]: Découvrez la liste des tarifs et le planning des cours
+        - link "Cliquez ici" [ref=e141] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/inscription
+          - text: Cliquez ici
+          - img [ref=e142]
+    - generic [ref=e147]:
+      - generic [ref=e148]:
+        - heading "S'inscrire au Groupe Scolaire VICTORIA-KOA" [level=2] [ref=e149]
+        - paragraph [ref=e150]: Toutes les informations à votre portée pour inscrire votre enfant
+      - generic [ref=e151]:
+        - generic [ref=e152]:
+          - generic [ref=e153]: 📋
+          - heading "Fiche Renseignement Maternelle" [level=3] [ref=e154]
+          - paragraph [ref=e155]: Toute Petite Section, PS, MS, GS
+          - link "⬇ Télécharger" [ref=e156] [cursor=pointer]:
+            - /url: /documents/inscriptions/fiche-inscription-maternelle-2025-2026.pdf
+        - generic [ref=e157]:
+          - generic [ref=e158]: 📋
+          - heading "Fiche Renseignement Primaire" [level=3] [ref=e159]
+          - paragraph [ref=e160]: CP1, CP2, CE1, CE2, CM1, CM2
+          - link "⬇ Télécharger" [ref=e161] [cursor=pointer]:
+            - /url: /documents/inscriptions/fiche-inscription-primaire-2025-2026.pdf
+    - generic [ref=e163]:
+      - generic [ref=e165]:
+        - heading "Nos Chiffres" [level=2] [ref=e166]
+        - paragraph [ref=e167]: Des résultats qui témoignent de notre engagement envers l'excellence éducative.
+      - generic [ref=e172]:
+        - generic [ref=e173]:
+          - generic [ref=e174]: 🏫
+          - generic [ref=e175]: 0+
+          - paragraph [ref=e176]: ans d'Expériences
+        - generic [ref=e177]:
+          - generic [ref=e178]: 📚
+          - generic [ref=e179]: "0"
+          - paragraph [ref=e180]: Classes
+        - generic [ref=e181]:
+          - generic [ref=e182]: 👧
+          - generic [ref=e183]: 0+
+          - paragraph [ref=e184]: Élèves
+        - generic [ref=e185]:
+          - generic [ref=e186]: 👩‍🏫
+          - generic [ref=e187]: "0"
+          - paragraph [ref=e188]: Enseignants
+    - generic [ref=e190]:
+      - generic [ref=e191]:
+        - heading "Nos Classes" [level=2] [ref=e194]
+        - link "Voir toutes les classes" [ref=e199] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000/les-classes
+          - text: Voir toutes les classes
+          - img [ref=e200]
+      - generic [ref=e203]: 🌸 Maternelle
+      - generic [ref=e205]:
+        - generic [ref=e206]:
+          - generic [ref=e207]: TPS
+          - paragraph [ref=e208]: Toute Petite Section
+          - generic [ref=e209]: Maternelle
+          - link "⬇ Fournitures" [ref=e211] [cursor=pointer]:
+            - /url: /documents/fournitures/TPS-2025-2026.pdf
+        - generic [ref=e212]:
+          - generic [ref=e213]: PS
+          - paragraph [ref=e214]: Petite Section
+          - generic [ref=e215]: Maternelle
+          - link "⬇ Fournitures" [ref=e217] [cursor=pointer]:
+            - /url: /documents/fournitures/PS-2025-2026.pdf
+        - generic [ref=e218]:
+          - generic [ref=e219]: MS
+          - paragraph [ref=e220]: Moyenne Section
+          - generic [ref=e221]: Maternelle
+          - link "⬇ Fournitures" [ref=e223] [cursor=pointer]:
+            - /url: /documents/fournitures/MS-2025-2026.pdf
+        - generic [ref=e224]:
+          - generic [ref=e225]: GS
+          - paragraph [ref=e226]: Grande Section
+          - generic [ref=e227]: Maternelle
+          - link "⬇ Fournitures" [ref=e229] [cursor=pointer]:
+            - /url: /documents/fournitures/GS-2025-2026.pdf
+      - generic [ref=e231]: 🎓 Primaire
+      - generic [ref=e233]:
+        - generic [ref=e234]:
+          - generic [ref=e235]: CP1
+          - paragraph [ref=e236]: Cours Préparatoire 1ère année
+          - generic [ref=e237]: Primaire
+          - link "⬇ Fournitures" [ref=e239] [cursor=pointer]:
+            - /url: /documents/fournitures/CP-2025-2026.pdf
+        - generic [ref=e240]:
+          - generic [ref=e241]: CP2
+          - paragraph [ref=e242]: Cours Préparatoire 2ème année
+          - generic [ref=e243]: Primaire
+          - link "⬇ Fournitures" [ref=e245] [cursor=pointer]:
+            - /url: /documents/fournitures/CP-2025-2026.pdf
+        - generic [ref=e246]:
+          - generic [ref=e247]: CE1
+          - paragraph [ref=e248]: Cours Élémentaire 1ère année
+          - generic [ref=e249]: Primaire
+          - link "⬇ Fournitures" [ref=e251] [cursor=pointer]:
+            - /url: /documents/fournitures/CE1-2025-2026.pdf
+        - generic [ref=e252]:
+          - generic [ref=e253]: CE2
+          - paragraph [ref=e254]: Cours Élémentaire 2ème année
+          - generic [ref=e255]: Primaire
+          - link "⬇ Fournitures" [ref=e257] [cursor=pointer]:
+            - /url: /documents/fournitures/CE2-2025-2026.pdf
+        - generic [ref=e258]:
+          - generic [ref=e259]: CM1
+          - paragraph [ref=e260]: Cours Moyen 1ère année
+          - generic [ref=e261]: Primaire
+          - link "⬇ Fournitures" [ref=e263] [cursor=pointer]:
+            - /url: /documents/fournitures/CM1-2025-2026.pdf
+        - generic [ref=e264]:
+          - generic [ref=e265]: CM2
+          - paragraph [ref=e266]: Cours Moyen 2ème année
+          - generic [ref=e267]: Primaire
+          - link "⬇ Fournitures" [ref=e269] [cursor=pointer]:
+            - /url: /documents/fournitures/CM2-2025-2026.pdf
+    - generic [ref=e271]:
+      - heading "Comment inscrire votre enfant ?" [level=2] [ref=e274]
+      - generic [ref=e281]:
+        - generic [ref=e282]:
+          - generic [ref=e284]: "1"
+          - generic [ref=e285]:
+            - generic [ref=e286]:
+              - generic [ref=e287]: 📃
+              - heading "Documents à fournir" [level=3] [ref=e288]
+            - list [ref=e289]:
+              - listitem [ref=e290]: Acte de naissance de l'enfant
+              - listitem [ref=e292]: Certificat de vaccination
+              - listitem [ref=e294]: 04 photos d'identité de l'enfant
+              - listitem [ref=e296]: Les frais d'inscription
+        - generic [ref=e298]:
+          - generic [ref=e300]: "2"
+          - generic [ref=e301]:
+            - generic [ref=e302]:
+              - generic [ref=e303]: 📝
+              - heading "Remplir le formulaire" [level=3] [ref=e304]
+            - paragraph [ref=e305]: L'école vous fournira un formulaire d'inscription à remplir et à retourner avec les documents nécessaires.
+      - link "Plus d'information" [ref=e307] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/inscription
+        - text: Plus d'information
+        - img [ref=e308]
+    - generic [ref=e311]:
+      - generic [ref=e313]:
+        - heading "Ce que disent les parents" [level=2] [ref=e314]
+        - paragraph [ref=e315]: La confiance des familles est notre plus belle récompense.
+      - generic [ref=e320]:
+        - generic [ref=e321]:
+          - group "1 / 4" [ref=e322]:
+            - generic [ref=e323]:
+              - generic [ref=e324]: "\""
+              - generic [ref=e325]:
+                - generic [ref=e326]: ⭐
+                - generic [ref=e327]: ⭐
+                - generic [ref=e328]: ⭐
+                - generic [ref=e329]: ⭐
+                - generic [ref=e330]: ⭐
+              - paragraph [ref=e331]: "\"Mon fils est épanoui depuis qu'il est à Victoria-Koa. Les enseignants sont attentionnés et l'ambiance est vraiment familiale. Je recommande cette école à tous les parents !\""
+              - generic [ref=e332]:
+                - generic [ref=e333]: KA
+                - generic [ref=e334]:
+                  - paragraph [ref=e335]: Mme Koné Adjoua
+                  - paragraph [ref=e336]: maman d'Ange, CP1
+          - group "2 / 4" [ref=e337]:
+            - generic [ref=e338]:
+              - generic [ref=e339]: "\""
+              - generic [ref=e340]:
+                - generic [ref=e341]: ⭐
+                - generic [ref=e342]: ⭐
+                - generic [ref=e343]: ⭐
+                - generic [ref=e344]: ⭐
+                - generic [ref=e345]: ⭐
+              - paragraph [ref=e346]: "\"Nous avons choisi Victoria-Koa pour la qualité de l'enseignement et nous n'avons pas été déçus. Ma fille a fait d'énormes progrès en lecture et en mathématiques.\""
+              - generic [ref=e347]:
+                - generic [ref=e348]: TS
+                - generic [ref=e349]:
+                  - paragraph [ref=e350]: M. Traoré Seydou
+                  - paragraph [ref=e351]: papa de Fatoumata, CE1
+          - group "3 / 4" [ref=e352]:
+            - generic [ref=e353]:
+              - generic [ref=e354]: "\""
+              - generic [ref=e355]:
+                - generic [ref=e356]: ⭐
+                - generic [ref=e357]: ⭐
+                - generic [ref=e358]: ⭐
+                - generic [ref=e359]: ⭐
+                - generic [ref=e360]: ⭐
+              - paragraph [ref=e361]: "\"L'équipe pédagogique est vraiment dévouée. Le suivi individualisé de chaque enfant est remarquable. On se sent vraiment écouté en tant que parent.\""
+              - generic [ref=e362]:
+                - generic [ref=e363]: BA
+                - generic [ref=e364]:
+                  - paragraph [ref=e365]: Mme Bamba Aminata
+                  - paragraph [ref=e366]: maman de Junior, MS
+          - group "4 / 4" [ref=e367]:
+            - generic [ref=e368]:
+              - generic [ref=e369]: "\""
+              - generic [ref=e370]:
+                - generic [ref=e371]: ⭐
+                - generic [ref=e372]: ⭐
+                - generic [ref=e373]: ⭐
+                - generic [ref=e374]: ⭐
+                - generic [ref=e375]: ⭐
+              - paragraph [ref=e376]: "\"Victoria-Koa c'est bien plus qu'une école, c'est une famille. Mon enfant pleure quand il ne peut pas y aller ! Les activités périscolaires sont fantastiques.\""
+              - generic [ref=e377]:
+                - generic [ref=e378]: CI
+                - generic [ref=e379]:
+                  - paragraph [ref=e380]: M. Coulibaly Ibrahim
+                  - paragraph [ref=e381]: papa de Youssouf, GS
+        - generic [ref=e382]:
+          - button "Go to slide 1" [ref=e383] [cursor=pointer]
+          - button "Go to slide 2" [ref=e384] [cursor=pointer]
+          - button "Go to slide 3" [ref=e385] [cursor=pointer]
+          - button "Go to slide 4" [ref=e386] [cursor=pointer]
+    - generic [ref=e388]:
+      - generic [ref=e390]:
+        - heading "Actualités Récentes" [level=2] [ref=e391]
+        - paragraph [ref=e392]: Restez informé de la vie de notre école.
+      - generic [ref=e397]:
+        - generic [ref=e398]:
+          - generic [ref=e399]:
+            - generic [ref=e400]: 🎂
+            - generic [ref=e401]: Animation
+          - generic [ref=e402]:
+            - paragraph [ref=e403]: 📅 9 avril 2023
+            - heading "Galette des rois" [level=3] [ref=e404]
+            - link "Lire" [ref=e405] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/actualites
+              - text: Lire
+              - img [ref=e406]
+        - generic [ref=e408]:
+          - generic [ref=e409]:
+            - generic [ref=e410]: 🏛️
+            - generic [ref=e411]: Créatif
+          - generic [ref=e412]:
+            - paragraph [ref=e413]: 📅 9 avril 2023
+            - heading "Sortie au musée" [level=3] [ref=e414]
+            - link "Lire" [ref=e415] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/actualites
+              - text: Lire
+              - img [ref=e416]
+      - link "Voir toutes les actualités" [ref=e419] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000/actualites
+        - text: Voir toutes les actualités
+        - img [ref=e420]
+    - generic [ref=e424]:
+      - generic [ref=e425]:
+        - heading "Nous contacter" [level=2] [ref=e426]
+        - paragraph [ref=e427]: Une question ? Nous vous répondons rapidement.
+      - generic [ref=e428]:
+        - generic [ref=e430]:
+          - generic [ref=e431]:
+            - generic [ref=e432]: Votre nom complet
+            - textbox "Votre nom complet" [ref=e433]:
+              - /placeholder: "Ex: Adjoua Koné"
+          - generic [ref=e434]:
+            - generic [ref=e435]: Email
+            - textbox "Email" [ref=e436]:
+              - /placeholder: votre@email.com
+          - generic [ref=e437]:
+            - generic [ref=e438]: Téléphone
+            - textbox "Téléphone" [ref=e439]:
+              - /placeholder: +225 XX XX XX XX
+          - button "✉ Envoyer le message" [ref=e441] [cursor=pointer]
+        - generic [ref=e442]:
+          - paragraph [ref=e443]:
+            - generic [ref=e444]: 📍
+            - text: Angré 9ème Tranche CNPS en haut, en face de la Pâtisserie MARY'S
+          - paragraph [ref=e445]:
+            - generic [ref=e446]: 📍
+            - text: 92HH+H98, Voie Djibi, Abidjan
+  - contentinfo [ref=e447]:
+    - generic [ref=e448]:
+      - generic [ref=e449]:
+        - generic [ref=e450]:
+          - generic [ref=e451]:
+            - img "Logo VICTORIA-KOA" [ref=e452]
+            - generic [ref=e453]:
+              - heading "VICTORIA-KOA" [level=3] [ref=e454]
+              - paragraph [ref=e455]: Centre Maternel & Primaire
+          - paragraph [ref=e456]: École maternelle et primaire à Angré 9ème Tranche, Abidjan. Un cadre chaleureux où chaque enfant s'épanouit dans la joie et l'apprentissage.
+          - link "Page Facebook VICTORIA-KOA" [ref=e457] [cursor=pointer]:
+            - /url: https://facebook.com/CM.VICTORIA.KOA/
+            - img [ref=e458]
+            - text: Suivez-nous
+        - generic [ref=e460]:
+          - heading "Navigation" [level=4] [ref=e461]
+          - list [ref=e462]:
+            - listitem [ref=e463]:
+              - link "Accueil" [ref=e464] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000
+                - text: Accueil
+            - listitem [ref=e466]:
+              - link "À propos" [ref=e467] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/a-propos
+                - text: À propos
+            - listitem [ref=e469]:
+              - link "Les classes" [ref=e470] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/les-classes
+                - text: Les classes
+            - listitem [ref=e472]:
+              - link "Inscription" [ref=e473] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/inscription
+                - text: Inscription
+            - listitem [ref=e475]:
+              - link "Galeries" [ref=e476] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/galleries
+                - text: Galeries
+            - listitem [ref=e478]:
+              - link "Contact" [ref=e479] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/contact
+                - text: Contact
+        - generic [ref=e481]:
+          - heading "Nous contacter" [level=4] [ref=e482]
+          - list [ref=e483]:
+            - listitem [ref=e484]:
+              - link "(+225) 07 67 48 55 94" [ref=e485] [cursor=pointer]:
+                - /url: tel:+2250767485594
+                - img [ref=e486]
+                - text: (+225) 07 67 48 55 94
+            - listitem [ref=e488]:
+              - link "(+225) 01 43 23 84 82" [ref=e489] [cursor=pointer]:
+                - /url: tel:+2250143238482
+                - img [ref=e490]
+                - text: (+225) 01 43 23 84 82
+            - listitem [ref=e492]:
+              - link "direction@gsvictoriakoa.ci" [ref=e493] [cursor=pointer]:
+                - /url: mailto:direction@gsvictoriakoa.ci
+                - img [ref=e494]
+                - text: direction@gsvictoriakoa.ci
+            - listitem [ref=e496]:
+              - generic [ref=e497]:
+                - img [ref=e498]
+                - generic [ref=e501]:
+                  - text: Angré 9ème Tranche CNPS en haut,
+                  - text: face Pâtisserie MARY'S, Abidjan
+      - generic [ref=e502]:
+        - paragraph [ref=e503]: © 2026 — Groupe Scolaire VICTORIA-KOA. Tous droits réservés.
+        - paragraph [ref=e504]: Angré 9ème Tranche, Abidjan, Côte d'Ivoire
+  - link "Nous appeler au (+225) 07 67 48 55 94" [ref=e505] [cursor=pointer]:
+    - /url: tel:+2250767485594
+    - img [ref=e506]
