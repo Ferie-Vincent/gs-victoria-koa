@@ -22,6 +22,12 @@ jobs:
           extensions: mbstring, pdo, pdo_sqlite, sqlite3, fileinfo
           coverage: none
 
+      - name: Node.js 20
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020  # v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
       - name: Cache Composer
         uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830  # v4
         with:
@@ -30,6 +36,9 @@ jobs:
 
       - name: Composer install
         run: composer install --optimize-autoloader --no-interaction
+
+      - name: Build assets Vite
+        run: npm ci && npm run build
 
       - name: Setup .env test
         run: |
